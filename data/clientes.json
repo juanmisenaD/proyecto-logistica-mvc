@@ -1,0 +1,322 @@
+[
+  {
+    "dni_nit": 9002581471,
+    "nombres": "Global Cargo",
+    "apellidos": "S.A.S. LTDA",
+    "departamento": "Cundinamarca",
+    "ciudad": "Bogotá D.C",
+    "direccion": "Calle 17 # 96A - 25",
+    "telefono": 6014551020,
+    "correo": "servicios@globalcargo.co"
+  },
+  {
+    "dni_nit": 1010102200,
+    "nombres": "Juan",
+    "apellidos": "Express",
+    "departamento": "Valle del Cauca",
+    "ciudad": "Cali",
+    "direccion": "Calle 30 N # 2AN - 29",
+    "telefono": 3003043388,
+    "correo": "juan.express@mail.com"
+  },
+  {
+    "dni_nit": 1018456789,
+    "nombres": "Carlos Alberto",
+    "apellidos": "Gómez Restrepo",
+    "departamento": "Antioquia",
+    "ciudad": "Medellín",
+    "direccion": "Calle 10 # 43E - 20, Apt 402",
+    "telefono": 3157654321,
+    "correo": "carlos.restrepo@email.com"
+  },
+  {
+    "dni_nit": 52345678,
+    "nombres": "María Camila",
+    "apellidos": "Pérez Hoyos",
+    "departamento": "Cundinamarca",
+    "ciudad": "Bogotá D.C",
+    "direccion": "Carrera 15 # 85-42, Oficina 301",
+    "telefono": 3157891234,
+    "correo": "camila.perez@email.com"
+  },
+  {
+    "dni_nit": 900123456,
+    "nombres": "Distribuidora Textil",
+    "apellidos": "S.A.S.",
+    "departamento": "Atlántico",
+    "ciudad": "Barranquilla",
+    "direccion": "Vía 40 # 73-290, Bodega 5",
+    "telefono": 3001234567,
+    "correo": "envios@distritextil.com"
+  },
+  {
+    "dni_nit": 1020765432,
+    "nombres": "Juan Fernando",
+    "apellidos": "Mendoza Castro",
+    "departamento": "Valle del Cauca",
+    "ciudad": "Cali",
+    "direccion": "Avenida 6N # 12-30",
+    "telefono": 3129876543,
+    "correo": "juan.mendoza@email.com"
+  },
+  {
+    "dni_nit": 32145678,
+    "nombres": "Diana Marcela",
+    "apellidos": "Rojas Rodríguez",
+    "departamento": "Santander",
+    "ciudad": "Bucaramanga",
+    "direccion": "Carrera 27 # 36-14",
+    "telefono": 3183456789,
+    "correo": "diana.rojas@email.com"
+  },
+  {
+    "dni_nit": 79876543,
+    "nombres": "Andrés Felipe",
+    "apellidos": "Ortiz Silva",
+    "departamento": "Risaralda",
+    "ciudad": "Pereira",
+    "direccion": "Calle 21 # 9-45",
+    "telefono": 3206543210,
+    "correo": "andres.ortiz@email.com"
+  },
+  {
+    "dni_nit": 1032456123,
+    "nombres": "Laura Sofía",
+    "apellidos": "Villamizar Niño",
+    "departamento": "Boyacá",
+    "ciudad": "Tunja",
+    "direccion": "Calle 18 # 11-52",
+    "telefono": 3117894561,
+    "correo": "laura.villa@email.com"
+  },
+  {
+    "dni_nit": 901555666,
+    "nombres": "Tecnología y Hogar",
+    "apellidos": "E.U.",
+    "departamento": "Cundinamarca",
+    "ciudad": "Soacha",
+    "direccion": "Carrera 7 # 14-22",
+    "telefono": 3164561234,
+    "correo": "soporte@techogar.com"
+  },
+  {
+    "dni_nit": 71234567,
+    "nombres": "Jorge Eliécer",
+    "apellidos": "Bermúdez Díaz",
+    "departamento": "Bolívar",
+    "ciudad": "Cartagena de Indias",
+    "direccion": "Barrio Bocagrande, Carrera 3 # 5-80",
+    "telefono": 3015559988,
+    "correo": "jorge.bermudez@email.com"
+  },
+  {
+    "dni_nit": 1045678901,
+    "nombres": "Natalia Andrea",
+    "apellidos": "Guzmán Vélez",
+    "departamento": "Quindío",
+    "ciudad": "Armenia",
+    "direccion": "Avenida Centenario # 25N-40",
+    "telefono": 3142223344,
+    "correo": "natalia.guzman@email.com"
+  },
+  {
+    "dni_nit": 1022345678,
+    "nombres": "Andrés Mauricio",
+    "apellidos": "Vargas Peña",
+    "departamento": "Cundinamarca",
+    "ciudad": "Bogotá D.C",
+    "direccion": "Calle 134 # 19-45, Apt 501",
+    "telefono": 3134567891,
+    "correo": "andres.vargas@email.com"
+  },
+  {
+    "dni_nit": 900543210,
+    "nombres": "Calzado Confort",
+    "apellidos": "S.A.S.",
+    "departamento": "Santander",
+    "ciudad": "Bucaramanga",
+    "direccion": "Zona Industrial, Manzana C Bodega 4",
+    "telefono": 3176543210,
+    "correo": "devoluciones@calzadoconfort.com"
+  },
+  {
+    "dni_nit": 901333444,
+    "nombres": "Muebles & Diseño",
+    "apellidos": "Hogar",
+    "departamento": "Antioquia",
+    "ciudad": "Sabaneta",
+    "direccion": "Carrera 48 # 75 Sur-30",
+    "telefono": 3004445566,
+    "correo": "despachos@mueblesdiseno.com"
+  },
+  {
+    "dni_nit": 32234567,
+    "nombres": "Claudia Patricia",
+    "apellidos": "Restrepo Ruiz",
+    "departamento": "Risaralda",
+    "ciudad": "Pereira",
+    "direccion": "Avenida Circunvalar # 12-85",
+    "telefono": 3102223344,
+    "correo": "claudia.restrepo@email.com"
+  },
+  {
+    "dni_nit": 51987654,
+    "nombres": "Martha Lucía",
+    "apellidos": "Giraldo Gómez",
+    "departamento": "Caldas",
+    "ciudad": "Manizales",
+    "direccion": "Carrera 23 # 45-12",
+    "telefono": 3159876543,
+    "correo": "martha.giraldo@email.com"
+  },
+  {
+    "dni_nit": 1035432167,
+    "nombres": "Mateo",
+    "apellidos": "Ospina Giraldo",
+    "departamento": "Valle del Cauca",
+    "ciudad": "Cali",
+    "direccion": "Calle 5 # 66-22, Torre 2 Apt 1204",
+    "telefono": 3217654321,
+    "correo": "mateo.ospina@email.com"
+  },
+  {
+    "dni_nit": 1085432109,
+    "nombres": "Kevin Santiago",
+    "apellidos": "Benavides Paz",
+    "departamento": "Nariño",
+    "ciudad": "Pasto",
+    "direccion": "Calle 19 # 26-40",
+    "telefono": 3123334455,
+    "correo": "kevin.paz@email.com"
+  },
+  {
+    "dni_nit": 1015432987,
+    "nombres": "Lina María",
+    "apellidos": "Duarte Quintero",
+    "departamento": "Norte de Santander",
+    "ciudad": "Cúcuta",
+    "direccion": "Avenida 3E # 11-55, Barrio Colsag",
+    "telefono": 3145556677,
+    "correo": "lina.duarte@email.com"
+  },
+  {
+    "dni_nit": 901222111,
+    "nombres": "TecnoAccesorios",
+    "apellidos": "Colombia",
+    "departamento": "Atlántico",
+    "ciudad": "Barranquilla",
+    "direccion": "Carrera 53 # 82-102",
+    "telefono": 3017778899,
+    "correo": "ventas@tecnoaccesorios.co"
+  },
+  {
+    "dni_nit": 1110456123,
+    "nombres": "Jhon Jairo",
+    "apellidos": "Palacios Mosquera",
+    "departamento": "Chocó",
+    "ciudad": "Quibdó",
+    "direccion": "Carrera 4 # 25-18",
+    "telefono": 3189990011,
+    "correo": "jhon.palacios@email.com"
+  },
+  {
+    "dni_nit": 80987654,
+    "nombres": "María Camila",
+    "apellidos": "Torres Medina",
+    "departamento": "Cundinamarca",
+    "ciudad": "Bogotá D.C",
+    "direccion": "Carrera 15 # 93A - 40, Of 201",
+    "telefono": 3210987654,
+    "correo": "camila.torres@email.com"
+  },
+  {
+    "dni_nit": 1122334455,
+    "nombres": "Andrés Felipe",
+    "apellidos": "Mendoza Castro",
+    "departamento": "Valle del Cauca",
+    "ciudad": "Cali",
+    "direccion": "Avenida 4N # 23N - 45",
+    "telefono": 3001234567,
+    "correo": "andres.mendoza@email.com"
+  },
+  {
+    "dni_nit": 59825667,
+    "nombres": "Sonia Patricia",
+    "apellidos": "Vargas Ruiz",
+    "departamento": "Atlántico",
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 72 # 53 - 12, Piso 4",
+    "telefono": 3109876543,
+    "correo": "sonia.vargas@email.com"
+  },
+  {
+    "dni_nit": 1054321678,
+    "nombres": "Diana Marcela",
+    "apellidos": "Ríos Ospina",
+    "departamento": "Risaralda",
+    "ciudad": "Pereira",
+    "direccion": "Carrera 7 # 19 - 48",
+    "telefono": 3187654321,
+    "correo": "diana.rios@email.com"
+  },
+  {
+    "dni_nit": 9580367634,
+    "nombres": "Thiago Benjamín",
+    "apellidos": "Castro Meléndez",
+    "departamento": "Santander",
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 36 # 24 - 102, Of 504",
+    "telefono": 3123456789,
+    "correo": "thiago.castro@email.com"
+  },
+  {
+    "dni_nit": 1032456789,
+    "nombres": "Alejandro",
+    "apellidos": "Muñoz Duarte",
+    "departamento": "Bolívar",
+    "ciudad": "Cartagena de Indias",
+    "direccion": "Barrio Bocagrande Carrera 3 # 6 - 80",
+    "telefono": 3054321098,
+    "correo": "alejo.munoz@email.com"
+  },
+  {
+    "dni_nit": 3551101984,
+    "nombres": "Claudia Elena",
+    "apellidos": "Gutiérrez Ángel",
+    "departamento": "Caldas",
+    "ciudad": "Manizales",
+    "direccion": "Avenida Santander # 55 - 22",
+    "telefono": 3148765432,
+    "correo": "claudia.gutierrez@email.com"
+  },
+  {
+    "dni_nit": 1076543210,
+    "nombres": "Juan Camilo",
+    "apellidos": "Pérez Cardona",
+    "departamento": "Quindío",
+    "ciudad": "Armenia",
+    "direccion": "Norte Calle 19 # 12 - 45",
+    "telefono": 3176543210,
+    "correo": "juan.perez@email.com"
+  },
+  {
+    "dni_nit": 8775931038,
+    "nombres": "Liliana María",
+    "apellidos": "Saldarriaga Hoyos",
+    "departamento": "Huila",
+    "ciudad": "Neiva",
+    "direccion": "Carrera 5 # 11 - 34",
+    "telefono": 3209876543,
+    "correo": "liliana.saldarriaga@email.com"
+  },
+  {
+    "dni_nit": 1023456789,
+    "nombres": "Santiago",
+    "apellidos": "Montoya Vélez",
+    "departamento": "Antioquia",
+    "ciudad": "Envigado",
+    "direccion": "Carrera 43A # 38 Sur - 60",
+    "telefono": 3112345678,
+    "correo": "santiago.montoya@email.com"
+  }
+]

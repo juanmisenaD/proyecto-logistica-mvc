@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Gestión Logística</title>
+  <!-- Carga de Bootstrap v5.1.3 local desde /public/css/ -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <!-- Estilos opcionales personalizados -->
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="bg-light">
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+  <!-- Cabecera de Usuario y Rol -->
+  <div class="d-flex justify-content-between align-items-center p-3 rounded shadow-sm mb-4">
+    <div>
+      <h4 class="m-0 text-white">📦 Panel de Control Logístico</h4>
+      <small class="text-muted">Bienvenido: <strong><%= usuario.nombre %></strong> (<span class="badge bg-info text-dark"><%= usuario.rol %></span>)</small>
+    </div>
+    <div class="ms-3">
+      <button type="button" class="btn btn-outline-primary me-2" data-bs-toggle="modal" data-bs-target="#modalDirectorioClientes">
+        📇 Clientes (<%= clientes ? clientes.length : 0 %>)
+      </button>
+      <% if (usuario.rol === 'ADMIN' || usuario.rol === 'OPERADOR') { %>
+        <a href="/crear" class="btn btn-success">+ Nueva Guía</a>
+      <% } %>
+      <a href="/logout" class="btn btn-outline-danger ms-2">Cerrar Sesión</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid px-4">
+  <% if (error) { %>
+    <div class="alert alert-danger alert-dismissible fade show"><%= error %></div>
+  <% } %>
+  <% if (success) { %>
+    <div class="alert alert-success alert-dismissible fade show"><%= success %></div>
+  <% } %>
+
+  <!-- Filtro por Rango de Fechas -->
+  <div class="card mb-4 border-0 shadow-sm">
+    <div class="card-body">
+      <form method="GET" action="/" class="row g-3 align-items-end">
+        <div class="col-md-4">
+          <label class="form-label fw-bold">Fecha Inicio</label>
+          <input type="date" name="fecha_inicio" class="form-control" value="<%= filtros.fecha_inicio %>">
+        </div>
+        <div class="col-md-4">
+          <label class="form-label fw-bold">Fecha Fin</label>
+          <input type="date" name="fecha_fin" class="form-control" value="<%= filtros.fecha_fin %>">
+        </div>
+        <div class="col-md-4 d-flex gap-2">
+          <button type="submit" class="btn btn-primary w-100">🔍 Filtrar</button>
+          <a href="/" class="btn btn-secondary">Limpiar</a>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- TARJETAS DE DASHBOARD -->
+  <!-- Reporte Visual de Balance (Solo Visibles para ADMIN) -->
+  <% if (usuario.rol === 'ADMIN') { %>
+  <div class="row g-3 mb-4">
+    <div class="col-md-3">
+      <div class="card bg-primary text-white shadow-sm">
+        <div class="card-body">
+          <h6 class="card-title text-white-50">Total en Caja</h6>
+          <h3 class="fw-bold">$<%= metrics.totalCaja.toLocaleString('es-CO') %></h3>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card bg-success text-white shadow-sm">
+        <div class="card-body">
+          <h6 class="card-title text-white-50">Utilidad Bruta (Flete)</h6>
+          <h3 class="fw-bold">$<%= metrics.utilidadBruta.toLocaleString('es-CO', {maximumFractionDigits: 0}) %></h3>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card bg-warning text-dark shadow-sm">
+        <div class="card-body">
+          <h6 class="card-title">Reserva IVA (19%)</h6>
+          <h3 class="fw-bold">$<%= metrics.iva19.toLocaleString('es-CO', {maximumFractionDigits: 0}) %></h3>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card bg-info text-dark shadow-sm">
+        <div class="card-body">
+          <h6 class="card-title">Fondo de Seguros (2%)</h6>
+          <h3 class="fw-bold">$<%= metrics.fondoSeguro.toLocaleString('es-CO', {maximumFractionDigits: 0}) %></h3>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card bg-dark text-white shadow-sm">
+        <div class="card-body">
+          <h6 class="card-title">Envíos Registrados</h6>
+          <h3><%= guias.length %></h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <% } %>
+
+  <% if (usuario.rol === 'OPERADOR') { %>
+    <div class="row g-3 mb-4">
+      <div class="col-md-3">
+        <div class="card bg-dark text-white shadow-sm">
+          <div class="card-body">
+            <h6 class="card-title">Envíos Registrados</h6>
+            <h3><%= guias.length %></h3>
+          </div>
+        </div>
+      </div>
+    </div>  
+  <% } %>
+
+  <!-- TABLA MAESTRA DE GUÍAS -->
+  <div class="card shadow-sm">
+    <div class="card-header bg-white py-3">
+      <h5 class="m-0 fw-bold text-secondary">Reporte Maestro de Envíos</h5>
+    </div>
+    <div class="card-body p-0">
+      <div class="table-responsive">
+        <table class="table table-hover align-middle mb-0">
+          <thead class="table-dark">
+            <tr>
+              <th>Guía</th>
+              <th>Fecha</th>
+              <th>Remitente</th>
+              <th>Destinatario</th>
+              <th>Contenido</th>
+              <th>Peso / Tamaño</th>
+              <th>Declarado</th>
+              <th>Total</th>
+              <th class="align-middle">
+                <div class="d-flex align-items-center gap-2">
+                  <span class="fw-bold">Estado:</span>
+                  <select id="filtroEstado" class="form-select form-select-sm" onchange="filtrarPorEstado(this.value)">
+                    <option value="TODOS">Todos</option>
+                    <option value="PENDIENTE">PENDIENTE</option>
+                    <option value="EN CAMINO">EN CAMINO</option>
+                    <option value="ENTREGADO">ENTREGADO</option>
+                  </select>
+                </div>
+              </th>
+              <th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% if (guias.length === 0) { %>
+              <tr><td colspan="9" class="text-center py-4">No hay guías registradas.</td></tr>
+            <% } %>
+            <% guias.forEach(g => { %>
+              <tr class="fila-guia" data-estado="<%= g.estado %>">
+                <td><span class="badge bg-secondary"><%= g.generator_guia %></span></td>
+                <td><%= new Date(g.fecha).toLocaleDateString() %></td>
+                <td>
+                  <strong>
+                    <%= g.remitente?.nombres ? `${g.remitente.nombres} ${g.remitente.apellidos}` : (g.resumen || 'Cliente Archivated') %>
+                  </strong><br>
+                  <small class="text-muted">
+                    <%= g.remitente?.ciudad || 'N/A' %> (<%= g.remitente?.dni_nit || 'Archivado' %>)
+                  </small>
+                </td>
+                <td>
+                  <strong>
+                    <%= g.destinatario?.nombres ? `${g.destinatario.nombres} ${g.destinatario.apellidos}` : 'Destinatario Archivado' %>
+                  </strong><br>
+                  <small class="text-muted">
+                    <%= g.destinatario?.ciudad || 'N/A' %> (<%= g.destinatario?.dni_nit || 'Archivado' %>)
+                  </small>
+                </td>
+                <td>
+                  <%= g.contenido %> 
+                  <% if(g.fragil) { %> <span class="badge bg-danger">Frágil</span> <% } %>
+                </td>
+                <td><%= g.peso %> kg <br><small class="text-muted"><%= g.tamano %></small></td>
+                <td>$<%= g.valor_declarado.toLocaleString() %></td>
+                <td class="fw-bold text-success">$<%= g.precio.toLocaleString() %></td>
+                <!-- Columna de Estado en la Tabla -->
+                <td>
+                  <% if (g.estado === 'ENTREGADO') { %>
+                    <span class="badge bg-success">✅ ENTREGADO</span>
+                  <% } else if (g.estado === 'EN CAMINO') { %>
+                    <span class="badge bg-warning text-dark">🚚 EN CAMINO</span>
+                  <% } else { %>
+                    <span class="badge bg-secondary">⏳ PENDIENTE</span>
+                  <% } %>
+                </td>
+                <!-- Columna de Acciones -->
+                <td>
+                  <button class="btn btn-sm btn-info" onclick="verTicket('<%= g.generator_guia %>')">
+                    👁️ Ver Ticket
+                  </button>
+
+                  <!-- Botón Entregar (Visible para MENSAJERO y ADMIN si la guía no está entregada) -->
+                  <% if (usuario.rol === 'MENSAJERO' && g.estado !== 'ENTREGADO') { %>
+                    <a href="/entregar/<%= g.generator_guia %>" class="btn btn-sm btn-success" onclick="return confirm('¿Confirmar entrega? Se descargará el PDF y se archivará el registro para liberar espacio.');">
+                      📦 Entregar & Descargar PDF
+                    </a>
+                  <% } else { %>
+                    <span class="badge bg-secondary">🗄️ Archivado</span>
+                  <% } %>
+
+                  <!-- Botón Anular (Reservado para ADMIN) -->
+                  <% if (usuario.rol === 'ADMIN') { %>
+                    <a href="/anular/<%= g.generator_guia %>" class="btn btn-sm btn-danger" onclick="return confirm('¿Anular guía?');">
+                      🗑️ Anular
+                    </a>
+                  <% } %>
+                </td>
+              </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- Modal Directorio General de Clientes -->
+  <div class="modal fade" id="modalDirectorioClientes" tabindex="-1" aria-labelledby="modalClienteLabel" aria-hidden="true">
+    <div class="modal-dialog modal-xl modal-dialog-scrollable">
+      <div class="modal-content shadow-lg border-0">
+        
+        <!-- Encabezado del Modal -->
+        <div class="modal-header bg-primary text-white">
+          <h5 class="modal-title" id="modalClienteLabel">📇 Directorio de Clientes Registrados</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <!-- Cuerpo del Modal (Tabla con Scroll) -->
+        <div class="modal-body p-0">
+          <div class="table-responsive">
+            <table class="table table-striped table-hover align-middle mb-0">
+              <thead class="table-dark">
+                <tr>
+                  <th>DNI / NIT</th>
+                  <th>Nombre / Apellidos</th>
+                  <th>Ubicación</th>
+                  <th>Dirección</th>
+                  <th>Teléfono</th>
+                  <th>Correo Electrónico</th>
+                </tr>
+              </thead>
+              <tbody>
+                <% if (clientes && clientes.length > 0) { %>
+                  <% clientes.forEach(c => { %>
+                    <tr>
+                      <td><span class="badge bg-secondary"><%= c.dni_nit %></span></td>
+                      <td class="fw-bold"><%= c.nombres %> <%= c.apellidos %></td>
+                      <td><%= c.ciudad %>, <%= c.departamento %></td>
+                      <td><small><%= c.direccion %></small></td>
+                      <td><%= c.telefono %></td>
+                      <td><small class="text-primary"><%= c.correo %></small></td>
+                    </tr>
+                  <% }) %>
+                <% } else { %>
+                  <tr>
+                    <td colspan="6" class="text-center py-4 text-muted">
+                      <em>No hay clientes registrados en el sistema (clientes.json está vacío).</em>
+                    </td>
+                  </tr>
+                <% } %>
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Pie del Modal -->
+        <div class="modal-footer bg-light">
+          <span class="me-auto text-muted small">Total registrados: <strong><%= clientes ? clientes.length : 0 %></strong></span>
+          <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Cerrar</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal Ticket Digital de Envíos -->
+  <div class="modal fade" id="modalTicket" tabindex="-1" aria-labelledby="modalTicketLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+      <div class="modal-content border-0 shadow-lg">
+        
+        <div class="modal-header bg-dark text-white">
+          <h5 class="modal-title" id="modalTicketLabel">🧾 Comprobante de Envío Digital</h5>
+          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <div class="modal-body p-4 bg-light">
+          <!-- Encabezado Ticket -->
+          <div class="d-flex justify-content-between align-items-center mb-3 pb-2 border-bottom">
+            <div>
+              <h4 class="m-0 text-primary fw-bold" id="ticketNumGuia">ENV-00000</h4>
+              <small class="text-muted">Fecha Emisión: <span id="ticketFecha"></span></small>
+            </div>
+            <div class="text-end">
+              <span class="badge bg-secondary mb-1" id="ticketTamano">Tamaño</span><br>
+              <span class="badge bg-warning text-dark" id="ticketFragil">Frágil</span>
+            </div>
+          </div>
+
+          <!-- Secciones Remitente / Destinatario -->
+          <div class="row g-3 mb-3">
+            <div class="col-md-6">
+              <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                  <h6 class="card-subtitle mb-2 text-primary fw-bold">📤 Remitente</h6>
+                  <p class="mb-1 fw-bold" id="ticketRemitenteNombre"></p>
+                  <p class="mb-1 text-muted small">DNI/NIT: <span id="ticketRemitenteDni"></span></p>
+                  <p class="mb-1 text-muted small" id="ticketRemitenteUbicacion"></p>
+                  <p class="mb-0 text-muted small" id="ticketRemitenteContacto"></p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                  <h6 class="card-subtitle mb-2 text-success fw-bold">📥 Destinatario</h6>
+                  <p class="mb-1 fw-bold" id="ticketDestinatarioNombre"></p>
+                  <p class="mb-1 text-muted small">DNI/NIT: <span id="ticketDestinatarioDni"></span></p>
+                  <p class="mb-1 text-muted small" id="ticketDestinatarioUbicacion"></p>
+                  <p class="mb-0 text-muted small" id="ticketDestinatarioContacto"></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Detalles Carga y Valores -->
+          <div class="card border-0 shadow-sm">
+            <div class="card-body">
+              <h6 class="card-subtitle mb-2 text-dark fw-bold">📦 Detalles del Contenido</h6>
+              <p class="mb-2" id="ticketContenido"></p>
+              <hr>
+              <div class="d-flex justify-content-between align-items-center">
+                <div>
+                  <span class="text-muted small">Peso Registrado:</span> <strong id="ticketPeso"></strong><br>
+                  <span class="text-muted small">Valor Declarado:</span> <strong id="ticketValorDeclarado"></strong>
+                </div>
+                <div class="text-end">
+                  <span class="text-muted small">Total Pagado:</span>
+                  <h3 class="text-success m-0 fw-bold" id="ticketTotal">$0</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="modal-footer bg-white">
+          <button type="button" class="btn btn-secondary btn-sm" data-bs-dismiss="modal">Cerrar</button>
+          <button type="button" class="btn btn-primary btn-sm" onclick="window.print()">🖨️ Imprimir Ticket</button>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Carga de Bootstrap v5.1.3 Bundle (Incluye Popper) local desde /public/js/ -->
+  <script src="/js/bootstrap.bundle.min.js"></script>
+  
+  <!-- JS personalizado opcional -->
+  <script src="/js/main.js"></script>
+</body>
+</html>

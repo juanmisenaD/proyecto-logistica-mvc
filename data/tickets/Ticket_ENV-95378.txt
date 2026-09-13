@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-95378 | FECHA: 2026-08-31T01:42:20.369Z
+      TAMAÑO: Pequeño (S) | PESO: 0.5 kg
+      FRÁGIL: NO | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Carlos Alberto Restrepo Gómez
+      DNI/NIT:     1012345678
+      Ubicación:   Calle 10 # 43E - 20, Apt 402, Medellín (Antioquia)
+      Contacto:    3157654321 | carlos.restrepo@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Documentos comerciales y facturas impresas
+      TOTAL PAGADO: $3.500
+      ============================================================
+    

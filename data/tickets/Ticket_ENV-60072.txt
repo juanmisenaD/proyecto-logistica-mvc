@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-60072 | FECHA: 2026-09-06T19:58:03.506Z
+      TAMAÑO: Mediano (M) | PESO: 12 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $24.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      MERCANCÍA:   Sistema de videovigilancia térmica fija térmica FLIR para detección perimetral de intrusos de largo alcance
+      TOTAL PAGADO: $558.000
+      ============================================================
+    

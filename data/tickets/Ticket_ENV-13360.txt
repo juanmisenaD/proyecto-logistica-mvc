@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-13360 | FECHA: 2026-08-31T03:59:25.262Z
+      TAMAÑO: Pequeño (S) | PESO: 1 kg
+      FRÁGIL: NO | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Muestra de café especial tostado en grano
+      TOTAL PAGADO: $6.000
+      ============================================================
+    

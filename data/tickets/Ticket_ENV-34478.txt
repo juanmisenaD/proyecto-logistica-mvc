@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-34478 | FECHA: 2026-08-30T22:50:17.884Z
+      TAMAÑO: Grande (L) | PESO: 24.53 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $620.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Muebles & Diseño Hogar
+      DNI/NIT:     901333444
+      Ubicación:   Carrera 48 # 75 Sur-30, Sabaneta (Antioquia)
+      Contacto:    3004445566 | despachos@mueblesdiseno.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Patricia Restrepo Ruiz
+      DNI/NIT:     32234567
+      Ubicación:   Avenida Circunvalar # 12-85, Pereira (Risaralda)
+      Contacto:    3102223344 | claudia.restrepo@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Silla de oficina ergonómica desarmada
+      TOTAL PAGADO: $143.064,96
+      ============================================================
+    

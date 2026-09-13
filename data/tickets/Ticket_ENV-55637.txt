@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-55637 | FECHA: 2026-09-02T02:25:51.552Z
+      TAMAÑO: Pequeño (S) | PESO: 2.2 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $12.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Muebles & Diseño Hogar
+      DNI/NIT:     901333444
+      Ubicación:   Carrera 48 # 75 Sur-30, Sabaneta (Antioquia)
+      Contacto:    3004445566 | despachos@mueblesdiseno.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de tecnología: 50 unidades de memorias RAM DDR5 de 16GB Kingston Fury
+      TOTAL PAGADO: $269.000
+      ============================================================
+    

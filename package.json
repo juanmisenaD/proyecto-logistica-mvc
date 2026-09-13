@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-logistica-cp",
+  "version": "1.0.0",
+  "description": "Sistema MVC de Gestión Logística con Express y EJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+      "test": "node --watch --watch-path=src/controllers --watch-path=src/middlewares --watch-path=src/models --watch-path=src/routes --watch-path=src/services --watch-path=src/utils app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "morgan": "^1.12.0",
+    "node-cron": "^4.6.0",
+    "pdfkit": "^0.20.2"
+  }
+}

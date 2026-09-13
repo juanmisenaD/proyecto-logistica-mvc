@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-45026 | FECHA: 2026-08-31T02:29:56.604Z
+      TAMAÑO: Pequeño (S) | PESO: 1.88 kg
+      FRÁGIL: NO | VALOR DECLARADO: $180.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Alejandro Muñoz Duarte
+      DNI/NIT:     1032456789
+      Ubicación:   Barrio Bocagrande Carrera 3 # 6 - 80, Cartagena de Indias (Bolívar)
+      Contacto:    3054321098 | alejo.munoz@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Chaqueta impermeable de montaña
+      TOTAL PAGADO: $12.975
+      ============================================================
+    

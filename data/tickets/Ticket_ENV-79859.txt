@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-79859 | FECHA: 2026-08-31T04:04:48.448Z
+      TAMAÑO: Pequeño (S) | PESO: 1.96 kg
+      FRÁGIL: NO | VALOR DECLARADO: $110.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Diana Marcela Ríos Ospina
+      DNI/NIT:     1054321678
+      Ubicación:   Carrera 7 # 19 - 48, Pereira (Risaralda)
+      Contacto:    3187654321 | diana.rios@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Bolso de cuero sintético para dama
+      TOTAL PAGADO: $12.000
+      ============================================================
+    

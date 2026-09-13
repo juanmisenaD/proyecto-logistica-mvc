@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-70823 | FECHA: 2026-08-31T03:37:39.422Z
+      TAMAÑO: Pequeño (S) | PESO: 3.2 kg
+      FRÁGIL: NO | VALOR DECLARADO: $145.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jorge Eliécer Bermúdez Díaz
+      DNI/NIT:     71234567
+      Ubicación:   Barrio Bocagrande, Carrera 3 # 5-80, Cartagena de Indias (Bolívar)
+      Contacto:    3015559988 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Natalia Andrea Guzmán Vélez
+      DNI/NIT:     1045678901
+      Ubicación:   Avenida Centenario # 25N-40, Armenia (Quindío)
+      Contacto:    3142223344 | natalia.guzman@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Kit de herramientas manuales (destornilladores)
+      TOTAL PAGADO: $18.900
+      ============================================================
+    

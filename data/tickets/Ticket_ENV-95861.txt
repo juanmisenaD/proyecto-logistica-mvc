@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-95861 | FECHA: 2026-08-31T02:52:47.749Z
+      TAMAÑO: Pequeño (S) | PESO: 2.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $2.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Distribuidora Textil S.A.S.
+      DNI/NIT:     900123456
+      Ubicación:   Vía 40 # 73-290, Bodega 5, Barranquilla (Atlántico)
+      Contacto:    3001234567 | envios@distritextil.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Juan Fernando Mendoza Castro
+      DNI/NIT:     1020765432
+      Ubicación:   Avenida 6N # 12-30, Cali (Valle del Cauca)
+      Contacto:    3129876543 | juan.mendoza@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Computador portátil corporativo
+      TOTAL PAGADO: $70.500
+      ============================================================
+    

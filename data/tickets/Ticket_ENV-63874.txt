@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-63874 | FECHA: 2026-09-06T19:48:06.556Z
+      TAMAÑO: Pequeño (S) | PESO: 4.8 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $6.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jorge Eliécer Bermúdez Díaz
+      DNI/NIT:     71234567
+      Ubicación:   Barrio Bocagrande, Carrera 3 # 5-80, Cartagena de Indias (Bolívar)
+      Contacto:    3015559988 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Thiago Benjamín Castro Meléndez
+      DNI/NIT:     9580367634
+      Ubicación:   Calle 36 # 24 - 102, Of 504, Bucaramanga (Santander)
+      Contacto:    3123456789 | thiago.castro@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Fusionadora de fibra óptica profesional de alineación por núcleo con kit de herramientas de corte
+      TOTAL PAGADO: $162.000
+      ============================================================
+    

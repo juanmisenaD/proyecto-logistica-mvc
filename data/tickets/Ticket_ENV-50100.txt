@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-50100 | FECHA: 2026-09-06T19:28:38.117Z
+      TAMAÑO: Mediano (M) | PESO: 5.4 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $3.400.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Kit de radioenlace inalámbrico Ubiquiti AirFiber 5XHD para telecomunicaciones de larga distancia
+      TOTAL PAGADO: $103.000
+      ============================================================
+    

@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-22177 | FECHA: 2026-09-01T01:40:44.614Z
+      TAMAÑO: Mediano (M) | PESO: 7.35 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $42.000.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jorge Eliecer Bermúdez Silva
+      DNI/NIT:     9580367634
+      Ubicación:   Calle 36 # 24 - 102, Of 504, Bucaramanga (Santander)
+      Contacto:    3123456789 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Cámara de cine digital RED V-Raptor 8K con kit de lentes profesionales
+      TOTAL PAGADO: $884.750
+      ============================================================
+    

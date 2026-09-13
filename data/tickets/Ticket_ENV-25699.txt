@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-25699 | FECHA: 2026-08-30T21:21:11.105Z
+      TAMAÑO: Pequeño (S) | PESO: 2.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $3.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Carlos Alberto Gómez Restrepo
+      DNI/NIT:     1018456789
+      Ubicación:   carlos.gomez@email.com, Medellín (Antioquia)
+      Contacto:    3104567890 | carlos.gomez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Pérez Hoyos
+      DNI/NIT:     52345678
+      Ubicación:   Carrera 15 # 85-42, Oficina 301, Bogotá D.C (Cundinamarca)
+      Contacto:    3157891234 | camila.perez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Computador portátil Asus y cargador
+      TOTAL PAGADO: $90.500
+      ============================================================
+    

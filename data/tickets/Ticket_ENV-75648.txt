@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-75648 | FECHA: 2026-09-06T20:48:02.767Z
+      TAMAÑO: Pequeño (S) | PESO: 4.39 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $2.600.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Juan Express
+      DNI/NIT:     1010102200
+      Ubicación:   Calle 30 N # 2AN - 29, Cali (Valle del Cauca)
+      Contacto:    3003043388 | juan.express@mail.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Global Cargo S.A.S. LTDA
+      DNI/NIT:     9002581471
+      Ubicación:   Calle 17 # 96A - 25, Bogotá D.C (Cundinamarca)
+      Contacto:    6014551020 | servicios@globalcargo.co
+      ------------------------------------------------------------
+      MERCANCÍA:   Consola de videojuegos Sony PlayStation 5 Slim de 1TB con dos controles inalámbricos DualSense
+      TOTAL PAGADO: $81.930
+      ============================================================
+    

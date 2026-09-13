@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-12513 | FECHA: 2026-09-06T20:58:50.524Z
+      TAMAÑO: Pequeño (S) | PESO: 3.1 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $9.800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Tarjeta gráfica para PC de escritorio NVIDIA GeForce RTX 4090 de 24GB GDDR6X
+      TOTAL PAGADO: $219.500
+      ============================================================
+    

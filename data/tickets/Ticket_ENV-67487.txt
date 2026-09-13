@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-67487 | FECHA: 2026-09-06T21:03:32.349Z
+      TAMAÑO: Pequeño (S) | PESO: 2.3 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $28.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de telefonía: 5 unidades de celulares Apple iPhone 15 Pro Max de 256GB color Titanio Natural
+      TOTAL PAGADO: $589.500
+      ============================================================
+    

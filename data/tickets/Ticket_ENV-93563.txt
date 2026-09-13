@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-93563 | FECHA: 2026-09-02T02:23:55.868Z
+      TAMAÑO: Grande (L) | PESO: 24 kg
+      FRÁGIL: NO | VALOR DECLARADO: $4.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Natalia Andrea Guzmán Vélez
+      DNI/NIT:     1045678901
+      Ubicación:   Avenida Centenario # 25N-40, Armenia (Quindío)
+      Contacto:    3142223344 | natalia.guzman@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Muebles & Diseño Hogar
+      DNI/NIT:     901333444
+      Ubicación:   Carrera 48 # 75 Sur-30, Sabaneta (Antioquia)
+      Contacto:    3004445566 | despachos@mueblesdiseno.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Soldadora inversora industrial multiproceso Lincoln Electric
+      TOTAL PAGADO: $210.000
+      ============================================================
+    

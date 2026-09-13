@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-73367 | FECHA: 2026-08-30T22:44:37.246Z
+      TAMAÑO: Pequeño (S) | PESO: 3.21 kg
+      FRÁGIL: NO | VALOR DECLARADO: $380.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Calzado Confort S.A.S.
+      DNI/NIT:     900543210
+      Ubicación:   Zona Industrial, Manzana C Bodega 4, Bucaramanga (Santander)
+      Contacto:    3176543210 | devoluciones@calzadoconfort.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Caja con 3 pares de zapatos (Devolución)
+      TOTAL PAGADO: $23.640,693
+      ============================================================
+    

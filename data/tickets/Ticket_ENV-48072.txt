@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-48072 | FECHA: 2026-08-31T04:01:35.421Z
+      TAMAÑO: Pequeño (S) | PESO: 1.3 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $320.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Felipe Mendoza Castro
+      DNI/NIT:     1122334455
+      Ubicación:   Avenida 4N # 23N - 45, Cali (Valle del Cauca)
+      Contacto:    3001234567 | andres.mendoza@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Teclado mecánico para computador gamer
+      TOTAL PAGADO: $20.900
+      ============================================================
+    

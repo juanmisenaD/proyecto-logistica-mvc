@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-65535 | FECHA: 2026-08-31T02:59:45.969Z
+      TAMAÑO: Pequeño (S) | PESO: 3.5 kg
+      FRÁGIL: NO | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Laura Sofía Villamizar Niño
+      DNI/NIT:     1032456123
+      Ubicación:   Calle 18 # 11-52, Tunja (Boyacá)
+      Contacto:    3117894561 | laura.villa@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Tecnología y Hogar E.U.
+      DNI/NIT:     901555666
+      Ubicación:   Carrera 7 # 14-22, Soacha (Cundinamarca)
+      Contacto:    3164561234 | soporte@techogar.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Juego de sábanas familiares
+      TOTAL PAGADO: $18.500
+      ============================================================
+    

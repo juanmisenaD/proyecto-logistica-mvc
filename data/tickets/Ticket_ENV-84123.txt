@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-84123 | FECHA: 2026-08-31T01:54:24.997Z
+      TAMAÑO: Pequeño (S) | PESO: 0.44 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $85.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Carlos Alberto Gómez Restrepo
+      DNI/NIT:     1018456789
+      Ubicación:   Calle 10 # 43E - 20, Apt 402, Medellín (Antioquia)
+      Contacto:    3157654321 | carlos.restrepo@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Vaso térmico de acero inoxidable
+      TOTAL PAGADO: $11.918,333
+      ============================================================
+    

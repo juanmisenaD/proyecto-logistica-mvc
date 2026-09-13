@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-73781 | FECHA: 2026-09-01T03:11:39.183Z
+      TAMAÑO: Grande (L) | PESO: 24.38 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $35.000.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jorge Eliécer Bermúdez Díaz
+      DNI/NIT:     71234567
+      Ubicación:   Barrio Bocagrande, Carrera 3 # 5-80, Cartagena de Indias (Bolívar)
+      Contacto:    3015559988 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Drone de topografía industrial DJI Matrice 350 RTK con sensores térmicos LiDAR
+      TOTAL PAGADO: $829.875
+      ============================================================
+    

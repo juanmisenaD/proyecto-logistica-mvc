@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-47296 | FECHA: 2026-09-01T03:07:54.865Z
+      TAMAÑO: Grande (L) | PESO: 56 kg
+      FRÁGIL: NO | VALOR DECLARADO: $1.800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jorge Eliecer Bermúdez Silva
+      DNI/NIT:     9580367634
+      Ubicación:   Calle 36 # 24 - 102, Of 504, Bucaramanga (Santander)
+      Contacto:    3123456789 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de repuestos mecánicos pesados: 4 discos de freno ventilados para camión de carga
+      TOTAL PAGADO: $316.000
+      ============================================================
+    

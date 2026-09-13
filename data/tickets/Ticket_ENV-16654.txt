@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-16654 | FECHA: 2026-09-06T20:56:46.894Z
+      TAMAÑO: Mediano (M) | PESO: 14.87 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $5.200.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      María Camila Pérez Hoyos
+      DNI/NIT:     52345678
+      Ubicación:   Carrera 15 # 85-42, Oficina 301, Bogotá D.C (Cundinamarca)
+      Contacto:    3157891234 | camila.perez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jorge Eliécer Bermúdez Díaz
+      DNI/NIT:     71234567
+      Ubicación:   Barrio Bocagrande, Carrera 3 # 5-80, Cartagena de Indias (Bolívar)
+      Contacto:    3015559988 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Monitor gamer curvo ASUS ROG Swift de 32 pulgadas OLED QHD con tasa de refresco de 240Hz
+      TOTAL PAGADO: $186.360
+      ============================================================
+    

@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-85955 | FECHA: 2026-09-06T16:31:39.993Z
+      TAMAÑO: Mediano (M) | PESO: 7.8 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $11.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Muebles & Diseño Hogar
+      DNI/NIT:     901333444
+      Ubicación:   Carrera 48 # 75 Sur-30, Sabaneta (Antioquia)
+      Contacto:    3004445566 | despachos@mueblesdiseno.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Cámara PTZ industrial de seguridad Axis con zoom óptico de 40x y analíticas de IA
+      TOTAL PAGADO: $277.000
+      ============================================================
+    

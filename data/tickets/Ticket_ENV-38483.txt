@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-38483 | FECHA: 2026-08-31T03:45:04.942Z
+      TAMAÑO: Pequeño (S) | PESO: 1.1 kg
+      FRÁGIL: NO | VALOR DECLARADO: $95.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Muebles & Diseño Hogar
+      DNI/NIT:     901333444
+      Ubicación:   Carrera 48 # 75 Sur-30, Sabaneta (Antioquia)
+      Contacto:    3004445566 | despachos@mueblesdiseno.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Patricia Restrepo Ruiz
+      DNI/NIT:     32234567
+      Ubicación:   Avenida Circunvalar # 12-85, Pereira (Risaralda)
+      Contacto:    3102223344 | claudia.restrepo@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Suplementos dietarios y vitaminas
+      TOTAL PAGADO: $7.400
+      ============================================================
+    

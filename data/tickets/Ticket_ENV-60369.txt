@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-60369 | FECHA: 2026-09-06T20:53:34.280Z
+      TAMAÑO: Pequeño (S) | PESO: 2.1 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $11.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Global Cargo S.A.S. LTDA
+      DNI/NIT:     9002581471
+      Ubicación:   Calle 17 # 96A - 25, Bogotá D.C (Cundinamarca)
+      Contacto:    6014551020 | servicios@globalcargo.co
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Computador portátil Apple MacBook Pro de 14 pulgadas con procesador M3 Pro y 18GB de RAM
+      TOTAL PAGADO: $248.500
+      ============================================================
+    

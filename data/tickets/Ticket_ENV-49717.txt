@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-49717 | FECHA: 2026-08-31T04:23:21.148Z
+      TAMAÑO: Pequeño (S) | PESO: 2.2 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $12.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Andrés Felipe Mendoza Castro
+      DNI/NIT:     1122334455
+      Ubicación:   Avenida 4N # 23N - 45, Cali (Valle del Cauca)
+      Contacto:    3001234567 | andres.mendoza@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Claudia Patricia Restrepo Ruiz
+      DNI/NIT:     32234567
+      Ubicación:   Avenida Circunvalar # 12-85, Pereira (Risaralda)
+      Contacto:    3102223344 | claudia.restrepo@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de tecnología: 50 unidades de memorias RAM DDR5 de 16GB Kingston Fury
+      TOTAL PAGADO: $269.000
+      ============================================================
+    

@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-21380 | FECHA: 2026-08-31T02:08:09.155Z
+      TAMAÑO: Grande (L) | PESO: 20.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $2.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Diana Marcela Ríos Ospina
+      DNI/NIT:     1054321678
+      Ubicación:   Carrera 7 # 19 - 48, Pereira (Risaralda)
+      Contacto:    3187654321 | diana.rios@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jorge Eliecer Bermúdez Silva
+      DNI/NIT:     9580367634
+      Ubicación:   Calle 36 # 24 - 102, Of 504, Bucaramanga (Santander)
+      Contacto:    3123456789 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Computador portátil corporativo
+      TOTAL PAGADO: $160.500
+      ============================================================
+    

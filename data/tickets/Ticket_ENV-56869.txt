@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-56869 | FECHA: 2026-08-30T23:02:50.119Z
+      TAMAÑO: Mediano (M) | PESO: 12.5 kg
+      FRÁGIL: NO | VALOR DECLARADO: $450.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Martha Lucía Giraldo Gómez
+      DNI/NIT:     51987654
+      Ubicación:   Carrera 23 # 45-12, Manizales (Caldas)
+      Contacto:    3159876543 | martha.giraldo@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Mateo Ospina Giraldo
+      DNI/NIT:     1035432167
+      Ubicación:   Calle 5 # 66-22, Torre 2 Apt 1204, Cali (Valle del Cauca)
+      Contacto:    3217654321 | mateo.ospina@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Libros universitarios y enciclopedias pesadas
+      TOTAL PAGADO: $71.500
+      ============================================================
+    

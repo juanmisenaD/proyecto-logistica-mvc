@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-86573 | FECHA: 2026-08-31T02:57:48.334Z
+      TAMAÑO: Pequeño (S) | PESO: 1.88 kg
+      FRÁGIL: NO | VALOR DECLARADO: $180.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Diana Marcela Rojas Rodríguez
+      DNI/NIT:     32145678
+      Ubicación:   Carrera 27 # 36-14, Bucaramanga (Santander)
+      Contacto:    3183456789 | diana.rojas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Felipe Ortiz Silva
+      DNI/NIT:     79876543
+      Ubicación:   Calle 21 # 9-45, Pereira (Risaralda)
+      Contacto:    3206543210 | andres.ortiz@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Chaqueta impermeable de montaña
+      TOTAL PAGADO: $12.975
+      ============================================================
+    

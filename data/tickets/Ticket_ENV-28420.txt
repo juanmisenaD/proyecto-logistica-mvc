@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-28420 | FECHA: 2026-09-01T03:09:51.072Z
+      TAMAÑO: Grande (L) | PESO: 42 kg
+      FRÁGIL: NO | VALOR DECLARADO: $3.800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Claudia Elena Gutiérrez Ángel
+      DNI/NIT:     3551101984
+      Ubicación:   Avenida Santander # 55 - 22, Manizales (Caldas)
+      Contacto:    3148765432 | claudia.gutierrez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Motor eléctrico industrial trifásico de 5 HP de inducción asincrónica
+      TOTAL PAGADO: $286.000
+      ============================================================
+    

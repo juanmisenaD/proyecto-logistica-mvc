@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-15827 | FECHA: 2026-09-06T15:30:09.427Z
+      TAMAÑO: Mediano (M) | PESO: 8.33 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $4.200.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de videovigilancia: 12 cámaras IP tipo domo Hikvision de 4MP con visión nocturna ColorVu
+      TOTAL PAGADO: $133.666,667
+      ============================================================
+    

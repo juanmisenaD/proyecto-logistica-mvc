@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-88668 | FECHA: 2026-08-30T21:27:48.617Z
+      TAMAÑO: Mediano (M) | PESO: 15 kg
+      FRÁGIL: NO | VALOR DECLARADO: $800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Distribuidora Textil S.A.S.
+      DNI/NIT:     900123456
+      Ubicación:   Vía 40 # 73-290, Bodega 5, Barranquilla (Atlántico)
+      Contacto:    3001234567 | envios@distritextil.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Juan Fernando Mendoza Castro
+      DNI/NIT:     1020765432
+      Ubicación:   Avenida 6N # 12-30, Cali (Valle del Cauca)
+      Contacto:    3129876543 | juan.mendoza@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Rollo de tela de algodón 50 metros
+      TOTAL PAGADO: $91.000
+      ============================================================
+    

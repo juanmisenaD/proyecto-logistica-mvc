@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Registrar Envío - Logística</title>
+  <!-- Carga de Bootstrap v5.1.3 local desde /public/css/ -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <!-- Estilos opcionales personalizados -->
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body class="bg-light pb-5">
+
+<div class="container mt-4" style="max-width: 900px;">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h3>📝 Nuevo Registro de Envío</h3>
+    <a href="/" class="btn btn-outline-secondary">Volver al Reporte</a>
+  </div>
+
+  <% if (error) { %>
+    <div class="alert alert-danger"><%= error %></div>
+  <% } %>
+
+  <!-- Banner Informativo para el Operador en crear.ejs -->
+  <div class="row mb-4">
+    <div class="col-md-12">
+      <div class="card border-0 shadow-sm bg-light">
+        <div class="card-body d-flex justify-content-between align-items-center">
+          <div>
+            <h6 class="m-0 text-dark fw-bold">🚚 Cupo Operativo del Día</h6>
+            <small class="text-muted">Límite diario de operación: <%= typeof capacidadMaxima !== 'undefined' ? capacidadMaxima : 500 %> kg</small>
+          </div>
+          
+          <div class="text-end">
+            <span class="fs-5 fw-bold <%= disponibleHoy < 50 ? 'text-danger' : 'text-success' %>">
+              <%= typeof disponibleHoy !== 'undefined' ? disponibleHoy.toFixed(2) : '500.00' %> kg
+            </span>
+            <span class="d-block text-muted small">Disponible para registrar</span>
+          </div>
+        </div>
+        
+        <!-- Barra de Progreso Visual de Capacidad -->
+        <% const porcentaje = ((cargaHoy / capacidadMaxima) * 100).toFixed(1); %>
+        <div class="progress rounded-0" style="height: 6px;">
+          <div class="progress-bar <%= porcentaje > 85 ? 'bg-danger' : 'bg-primary' %>" 
+              role="progressbar" 
+              style="width: <%= porcentaje %>%;" 
+              aria-valuenow="<%= porcentaje %>" 
+              aria-valuemin="0" 
+              aria-valuemax="100">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <form action="/crear" method="POST" class="card shadow-sm p-4">
+    
+    <!-- REMITENTE -->
+    <h5 class="text-primary border-bottom pb-2">1. Datos del Remitente</h5>
+    <div class="row g-3 mb-3">
+      <div class="col-md-4">
+        <label class="form-label">DNI/NIT (10 dígitos)</label>
+        <div class="input-group">
+          <input type="number" id="r_dni_nit" name="r_dni_nit" class="form-control" required>
+          <button type="button" class="btn btn-outline-primary" onclick="autocompletar('r')">🔍</button>
+        </div>
+      </div>
+      <div class="col-md-4"><label class="form-label">Nombres</label><input type="text" id="r_nombres" name="r_nombres" class="form-control" required></div>
+      <div class="col-md-4"><label class="form-label">Apellidos</label><input type="text" id="r_apellidos" name="r_apellidos" class="form-control" required></div>
+      <div class="col-md-4"><label class="form-label">Departamento</label><select id="r_departamento" name="r_departamento" class="form-select" onchange="cargarCiudades('r')" required></select></div>
+      <div class="col-md-4"><label class="form-label">Ciudad</label><select id="r_ciudad" name="r_ciudad" class="form-select" required></select></div>
+      <div class="col-md-4"><label class="form-label">Dirección</label><input type="text" id="r_direccion" name="r_direccion" class="form-control" required></div>
+      <div class="col-md-6"><label class="form-label">Teléfono</label><input type="number" id="r_telefono" name="r_telefono" class="form-control" required></div>
+      <div class="col-md-6"><label class="form-label">Correo</label><input type="email" id="r_correo" name="r_correo" class="form-control" required></div>
+    </div>
+
+    <!-- DESTINATARIO -->
+    <h5 class="text-primary border-bottom pb-2 mt-3">2. Datos del Destinatario</h5>
+    <div class="row g-3 mb-3">
+      <div class="col-md-4">
+        <label class="form-label">DNI/NIT (10 dígitos)</label>
+        <div class="input-group">
+          <input type="number" id="d_dni_nit" name="d_dni_nit" class="form-control" required>
+          <button type="button" class="btn btn-outline-primary" onclick="autocompletar('d')">🔍</button>
+        </div>
+      </div>
+      <div class="col-md-4"><label class="form-label">Nombres</label><input type="text" id="d_nombres" name="d_nombres" class="form-control" required></div>
+      <div class="col-md-4"><label class="form-label">Apellidos</label><input type="text" id="d_apellidos" name="d_apellidos" class="form-control" required></div>
+      <div class="col-md-4"><label class="form-label">Departamento</label><select id="d_departamento" name="d_departamento" class="form-select" onchange="cargarCiudades('d')" required></select></div>
+      <div class="col-md-4"><label class="form-label">Ciudad</label><select id="d_ciudad" name="d_ciudad" class="form-select" required></select></div>
+      <div class="col-md-4"><label class="form-label">Dirección</label><input type="text" id="d_direccion" name="d_direccion" class="form-control" required></div>
+      <div class="col-md-6"><label class="form-label">Teléfono</label><input type="number" id="d_telefono" name="d_telefono" class="form-control" required></div>
+      <div class="col-md-6"><label class="form-label">Correo</label><input type="email" id="d_correo" name="d_correo" class="form-control" required></div>
+    </div>
+
+    <!-- PAQUETE -->
+    <h5 class="text-primary border-bottom pb-2 mt-3">3. Detalles de la Mercancía</h5>
+    <div class="row g-3 mb-3">
+      <div class="col-md-6"><label class="form-label">Contenido</label><input type="text" name="contenido" class="form-control" required></div>
+      <div class="col-md-3"><label class="form-label">¿Es Frágil?</label><select name="fragil" class="form-select"><option value="NO">NO</option><option value="SI">SÍ (+$8.000)</option></select></div>
+      <div class="col-md-3"><label class="form-label">Mínima ($50.000)</label><select name="es_minima" id="es_minima" class="form-select" onchange="toggleValorDeclarado()"><option value="SI">SÍ</option><option value="NO">NO</option></select></div>
+      <div class="col-md-4" id="div_valor_declarado" style="display:none;"><label class="form-label">Valor Declarado ($)</label><input type="number" name="valor_declarado" value="50000" class="form-control"></div>
+      <!-- Mensaje de alerta (oculto por defecto con la clase d-none de Bootstrap) -->
+      <div id="alertaCapacidadExcedida" class="alert alert-danger d-none my-3" role="alert"></div>
+      <div class="col-md-4"><label class="form-label">Peso Real (kg)</label><input type="number" step="0.1" name="peso_real" id="peso_real" class="form-control" required></div>
+      <div class="col-md-4"><label class="form-label">Calcular Volumétrico</label><select name="aplica_volumen" id="aplica_volumen" class="form-select" onchange="toggleDimensiones()"><option value="NO">NO</option><option value="SI">SÍ</option></select></div>
+    </div>
+
+    <div class="row g-3 mb-4" id="div_dimensiones" style="display:none;">
+      <div class="col-md-4"><label class="form-label">Alto (cm)</label><input type="number" step="0.1" name="alto" class="form-control"></div>
+      <div class="col-md-4"><label class="form-label">Ancho (cm)</label><input type="number" step="0.1" name="ancho" class="form-control"></div>
+      <div class="col-md-4"><label class="form-label">Largo (cm)</label><input type="number" step="0.1" name="largo" class="form-control"></div>
+    </div>
+
+    <!-- Mensaje de alerta para misma ciudad -->
+    <div id="alertaMismaCiudad" class="alert alert-warning d-none my-3" role="alert"></div>
+
+    <button type="submit" id="btnGuardarGuia" class="btn btn-primary btn-lg w-100">💾 Registrar Envío y Generar Ticket</button>
+  </form>
+</div>
+
+  <!-- Carga de Bootstrap v5.1.3 Bundle (Incluye Popper) local desde /public/js/ -->
+  <script src="/js/bootstrap.bundle.min.js"></script>
+  <!-- JS personalizado opcional -->
+  <script src="/js/main.js"></script>
+  <!-- JS Logistica de Crear el Formulario -->
+  <script src="/js/crear.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-33803 | FECHA: 2026-08-31T03:57:15.755Z
+      TAMAÑO: Pequeño (S) | PESO: 4.69 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $120.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Kevin Santiago Benavides Paz
+      DNI/NIT:     1085432109
+      Ubicación:   Calle 19 # 26-40, Pasto (Nariño)
+      Contacto:    3123334455 | kevin.paz@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Lina María Duarte Quintero
+      DNI/NIT:     1015432987
+      Ubicación:   Avenida 3E # 11-55, Barrio Colsag, Cúcuta (Norte de Santander)
+      Contacto:    3145556677 | lina.duarte@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lámpara de mesa con bombillo LED
+      TOTAL PAGADO: $33.837,5
+      ============================================================
+    

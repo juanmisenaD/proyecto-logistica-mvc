@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-60691 | FECHA: 2026-09-01T01:42:58.806Z
+      TAMAÑO: Grande (L) | PESO: 174.42 kg
+      FRÁGIL: NO | VALOR DECLARADO: $16.800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      MERCANCÍA:   Compresor de aire de tornillo rotativo industrial Schulz de 10 HP con tanque
+      TOTAL PAGADO: $1.208.083,333
+      ============================================================
+    

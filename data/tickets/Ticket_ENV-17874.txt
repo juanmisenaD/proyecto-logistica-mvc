@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-17874 | FECHA: 2026-09-06T20:50:50.380Z
+      TAMAÑO: Mediano (M) | PESO: 5.8 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $7.400.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Claudia Patricia Restrepo Ruiz
+      DNI/NIT:     32234567
+      Ubicación:   Avenida Circunvalar # 12-85, Pereira (Risaralda)
+      Contacto:    3102223344 | claudia.restrepo@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lote de almacenamiento: 20 discos duros externos Western Digital Elements de 2TB USB 3.0
+      TOTAL PAGADO: $185.000
+      ============================================================
+    

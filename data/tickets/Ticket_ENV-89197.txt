@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-89197 | FECHA: 2026-09-06T15:26:40.779Z
+      TAMAÑO: Grande (L) | PESO: 45 kg
+      FRÁGIL: NO | VALOR DECLARADO: $2.800.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Bobina de cable de fibra óptica monomodo ADSS de 12 hilos para telecomunicaciones
+      TOTAL PAGADO: $281.000
+      ============================================================
+    

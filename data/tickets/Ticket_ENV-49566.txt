@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-49566 | FECHA: 2026-09-02T02:20:50.078Z
+      TAMAÑO: Pequeño (S) | PESO: 4.69 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $120.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Lámpara de mesa con bombillo LED
+      TOTAL PAGADO: $33.837,5
+      ============================================================
+    

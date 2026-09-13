@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-39028 | FECHA: 2026-09-01T02:46:04.985Z
+      TAMAÑO: Grande (L) | PESO: 28.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $14.500.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Sonia Patricia Vargas Ruiz
+      DNI/NIT:     59825667
+      Ubicación:   Calle 72 # 53 - 12, Piso 4, Barranquilla (Atlántico)
+      Contacto:    3109876543 | sonia.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Servidor de almacenamiento en rack Lenovo ThinkSystem con discos duros SAS
+      TOTAL PAGADO: $440.500
+      ============================================================
+    

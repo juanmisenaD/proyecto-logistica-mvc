@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-27199 | FECHA: 2026-09-06T15:20:38.174Z
+      TAMAÑO: Pequeño (S) | PESO: 3.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $1.650.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Jorge Eliecer Bermúdez Silva
+      DNI/NIT:     9580367634
+      Ubicación:   Calle 36 # 24 - 102, Of 504, Bucaramanga (Santander)
+      Contacto:    3123456789 | jorge.bermudez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Grabador DVR móvil Dahua de 8 canales para seguridad vehicular con GPS y módulo 4G
+      TOTAL PAGADO: $58.500
+      ============================================================
+    

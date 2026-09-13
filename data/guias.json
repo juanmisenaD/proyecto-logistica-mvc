@@ -1,0 +1,1533 @@
+[
+  {
+    "generator_guia": "ENV-98746",
+    "fecha": "2026-08-26T03:36:58.077Z",
+    "fecha_entrega": "2026-08-30T15:33:14.322Z",
+    "precio": 104000,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-98746.pdf"
+  },
+  {
+    "generator_guia": "ENV-25699",
+    "fecha": "2026-08-30T21:21:11.105Z",
+    "fecha_entrega": "2026-08-30T22:51:12.631Z",
+    "precio": 90500,
+    "valor_declarado": 3500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-25699.pdf"
+  },
+  {
+    "generator_guia": "ENV-88668",
+    "fecha": "2026-08-30T21:27:48.617Z",
+    "fecha_entrega": "2026-08-31T01:04:08.052Z",
+    "precio": 91000,
+    "valor_declarado": 800000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-88668.pdf"
+  },
+  {
+    "generator_guia": "ENV-29179",
+    "fecha": "2026-08-30T21:36:37.846Z",
+    "fecha_entrega": "2026-08-31T02:53:13.733Z",
+    "precio": 5000,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-29179.pdf"
+  },
+  {
+    "generator_guia": "ENV-72505",
+    "fecha": "2026-08-30T21:41:01.320Z",
+    "fecha_entrega": "2026-08-31T04:14:49.215Z",
+    "precio": 34000,
+    "valor_declarado": 250000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-72505.pdf"
+  },
+  {
+    "generator_guia": "ENV-55419",
+    "fecha": "2026-08-30T21:51:41.283Z",
+    "fecha_entrega": "2026-09-01T01:43:46.575Z",
+    "precio": 23000,
+    "valor_declarado": 450000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-55419.pdf"
+  },
+  {
+    "generator_guia": "ENV-73367",
+    "fecha": "2026-08-30T22:44:37.246Z",
+    "fecha_entrega": "2026-09-01T01:43:49.318Z",
+    "precio": 23640.693333333336,
+    "valor_declarado": 380000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-73367.pdf"
+  },
+  {
+    "generator_guia": "ENV-34478",
+    "fecha": "2026-08-30T22:50:17.884Z",
+    "fecha_entrega": "2026-09-01T01:43:51.327Z",
+    "precio": 143064.96000000002,
+    "valor_declarado": 620000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-34478.pdf"
+  },
+  {
+    "generator_guia": "ENV-56869",
+    "fecha": "2026-08-30T23:02:50.119Z",
+    "fecha_entrega": "2026-09-01T01:43:53.559Z",
+    "precio": 71500,
+    "valor_declarado": 450000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-56869.pdf"
+  },
+  {
+    "generator_guia": "ENV-64420",
+    "fecha": "2026-08-30T23:06:30.556Z",
+    "fecha_entrega": "2026-09-01T01:43:56.407Z",
+    "precio": 11700,
+    "valor_declarado": 85000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-64420.pdf"
+  },
+  {
+    "generator_guia": "ENV-44856",
+    "fecha": "2026-08-30T23:11:18.628Z",
+    "fecha_entrega": "2026-09-01T01:43:59.063Z",
+    "precio": 47669.50749999999,
+    "valor_declarado": 290000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-44856.pdf"
+  },
+  {
+    "generator_guia": "ENV-95378",
+    "fecha": "2026-08-31T01:42:20.369Z",
+    "fecha_entrega": "2026-09-01T01:44:03.983Z",
+    "precio": 3500,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-95378.pdf"
+  },
+  {
+    "generator_guia": "ENV-84123",
+    "fecha": "2026-08-31T01:54:24.997Z",
+    "fecha_entrega": "2026-09-01T01:44:09.656Z",
+    "precio": 11918.333333333334,
+    "valor_declarado": 85000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-84123.pdf"
+  },
+  {
+    "generator_guia": "ENV-97007",
+    "fecha": "2026-08-31T02:02:40.570Z",
+    "fecha_entrega": "2026-09-01T01:44:06.457Z",
+    "precio": 11918.333333333334,
+    "valor_declarado": 85000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-97007.pdf"
+  },
+  {
+    "generator_guia": "ENV-21380",
+    "fecha": "2026-08-31T02:08:09.155Z",
+    "fecha_entrega": "2026-09-01T01:44:13.327Z",
+    "precio": 160500,
+    "valor_declarado": 2500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-21380.pdf"
+  },
+  {
+    "generator_guia": "ENV-45026",
+    "fecha": "2026-08-31T02:29:56.604Z",
+    "fecha_entrega": "2026-09-01T01:44:33.504Z",
+    "precio": 12975,
+    "valor_declarado": 180000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-45026.pdf"
+  },
+  {
+    "generator_guia": "ENV-69195",
+    "fecha": "2026-08-31T02:38:54.385Z",
+    "fecha_entrega": "2026-09-01T01:44:36.943Z",
+    "precio": 18500,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-69195.pdf"
+  },
+  {
+    "generator_guia": "ENV-91971",
+    "fecha": "2026-08-31T02:48:40.979Z",
+    "fecha_entrega": "2026-09-01T01:45:03.031Z",
+    "precio": 3500,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-91971.pdf"
+  },
+  {
+    "generator_guia": "ENV-95861",
+    "fecha": "2026-08-31T02:52:47.749Z",
+    "fecha_entrega": "2026-09-01T01:45:08.567Z",
+    "precio": 70500,
+    "valor_declarado": 2500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-95861.pdf"
+  },
+  {
+    "generator_guia": "ENV-86573",
+    "fecha": "2026-08-31T02:57:48.334Z",
+    "fecha_entrega": "2026-09-01T01:45:12.544Z",
+    "precio": 12975,
+    "valor_declarado": 180000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-86573.pdf"
+  },
+  {
+    "generator_guia": "ENV-65535",
+    "fecha": "2026-08-31T02:59:45.969Z",
+    "fecha_entrega": "2026-09-01T01:45:17.960Z",
+    "precio": 18500,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-65535.pdf"
+  },
+  {
+    "generator_guia": "ENV-70823",
+    "fecha": "2026-08-31T03:37:39.422Z",
+    "fecha_entrega": "2026-09-01T01:45:26.463Z",
+    "precio": 18900,
+    "valor_declarado": 145000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-70823.pdf"
+  },
+  {
+    "generator_guia": "ENV-27741",
+    "fecha": "2026-08-31T03:40:31.571Z",
+    "fecha_entrega": "2026-09-01T01:45:33.384Z",
+    "precio": 43600,
+    "valor_declarado": 280000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-27741.pdf"
+  },
+  {
+    "generator_guia": "ENV-38483",
+    "fecha": "2026-08-31T03:45:04.942Z",
+    "fecha_entrega": "2026-09-01T01:45:39.999Z",
+    "precio": 7400,
+    "valor_declarado": 95000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-38483.pdf"
+  },
+  {
+    "generator_guia": "ENV-72241",
+    "fecha": "2026-08-31T03:46:53.200Z",
+    "fecha_entrega": "2026-09-01T01:45:45.033Z",
+    "precio": 9600,
+    "valor_declarado": 160000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-72241.pdf"
+  },
+  {
+    "generator_guia": "ENV-33803",
+    "fecha": "2026-08-31T03:57:15.755Z",
+    "fecha_entrega": "2026-09-01T01:45:49.895Z",
+    "precio": 33837.5,
+    "valor_declarado": 120000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-33803.pdf"
+  },
+  {
+    "generator_guia": "ENV-13360",
+    "fecha": "2026-08-31T03:59:25.262Z",
+    "fecha_entrega": "2026-09-01T01:45:55.024Z",
+    "precio": 6000,
+    "valor_declarado": 50000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-13360.pdf"
+  },
+  {
+    "generator_guia": "ENV-48072",
+    "fecha": "2026-08-31T04:01:35.421Z",
+    "fecha_entrega": "2026-09-01T01:45:59.265Z",
+    "precio": 20900,
+    "valor_declarado": 320000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-48072.pdf"
+  },
+  {
+    "generator_guia": "ENV-79859",
+    "fecha": "2026-08-31T04:04:48.448Z",
+    "fecha_entrega": "2026-09-01T01:46:05.512Z",
+    "precio": 12000,
+    "valor_declarado": 110000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-79859.pdf"
+  },
+  {
+    "generator_guia": "ENV-25931",
+    "fecha": "2026-08-31T04:11:28.387Z",
+    "fecha_entrega": "2026-09-01T01:46:09.024Z",
+    "precio": 440500,
+    "valor_declarado": 14500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-25931.pdf"
+  },
+  {
+    "generator_guia": "ENV-65642",
+    "fecha": "2026-08-31T04:13:56.386Z",
+    "fecha_entrega": "2026-09-01T01:46:12.192Z",
+    "precio": 286000,
+    "valor_declarado": 3800000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-65642.pdf"
+  },
+  {
+    "generator_guia": "ENV-49717",
+    "fecha": "2026-08-31T04:23:21.148Z",
+    "fecha_entrega": "2026-09-01T01:46:15.415Z",
+    "precio": 269000,
+    "valor_declarado": 12500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-49717.pdf"
+  },
+  {
+    "generator_guia": "ENV-22177",
+    "fecha": "2026-09-01T01:40:44.614Z",
+    "fecha_entrega": "2026-09-04T02:46:58.954Z",
+    "precio": 884750,
+    "valor_declarado": 42000000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-22177.pdf"
+  },
+  {
+    "generator_guia": "ENV-60691",
+    "fecha": "2026-09-01T01:42:58.806Z",
+    "fecha_entrega": "2026-09-06T14:09:42.126Z",
+    "precio": 1208083.3333333333,
+    "valor_declarado": 16800000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-60691.pdf"
+  },
+  {
+    "generator_guia": "ENV-39028",
+    "fecha": "2026-09-01T02:46:04.985Z",
+    "fecha_entrega": "2026-09-06T14:10:00.862Z",
+    "precio": 440500,
+    "valor_declarado": 14500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-39028.pdf"
+  },
+  {
+    "generator_guia": "ENV-47296",
+    "fecha": "2026-09-01T03:07:54.865Z",
+    "fecha_entrega": "2026-09-06T14:19:25.176Z",
+    "precio": 316000,
+    "valor_declarado": 1800000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-47296.pdf"
+  },
+  {
+    "generator_guia": "ENV-28420",
+    "fecha": "2026-09-01T03:09:51.072Z",
+    "fecha_entrega": "2026-09-06T14:29:42.414Z",
+    "precio": 286000,
+    "valor_declarado": 3800000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-28420.pdf"
+  },
+  {
+    "generator_guia": "ENV-73781",
+    "fecha": "2026-09-01T03:11:39.183Z",
+    "fecha_entrega": "2026-09-06T14:34:27.585Z",
+    "precio": 829875,
+    "valor_declarado": 35000000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-73781.pdf"
+  },
+  {
+    "generator_guia": "ENV-49566",
+    "fecha": "2026-09-02T02:20:50.078Z",
+    "fecha_entrega": "2026-09-06T14:34:32.095Z",
+    "precio": 33837.5,
+    "valor_declarado": 120000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-49566.pdf"
+  },
+  {
+    "generator_guia": "ENV-93563",
+    "fecha": "2026-09-02T02:23:55.868Z",
+    "fecha_entrega": "2026-09-06T14:34:35.039Z",
+    "precio": 210000,
+    "valor_declarado": 4500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-93563.pdf"
+  },
+  {
+    "generator_guia": "ENV-55637",
+    "fecha": "2026-09-02T02:25:51.552Z",
+    "fecha_entrega": "2026-09-06T14:34:38.324Z",
+    "precio": 269000,
+    "valor_declarado": 12500000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-55637.pdf"
+  },
+  {
+    "generator_guia": "ENV-75370",
+    "fecha": "2026-09-02T02:29:15.668Z",
+    "fecha_entrega": "2026-09-06T14:34:42.095Z",
+    "precio": 213000,
+    "valor_declarado": 2900000,
+    "estado": "ENTREGADO",
+    "depurado": true,
+    "remitente": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "destinatario": {
+      "nombres": "Registro",
+      "apellidos": "Archivado",
+      "ciudad": "N/A",
+      "dni_nit": "Archivado"
+    },
+    "resumen": "Entregado - Respaldo PDF en /data/tickets/Ticket_ENV-75370.pdf"
+  },
+  {
+    "generator_guia": "ENV-27199",
+    "remitente": {
+      "dni_nit": 9580367634,
+      "nombres": "Jorge Eliecer",
+      "apellidos": "Bermúdez Silva",
+      "departamento": "Santander",
+      "ciudad": "Bucaramanga",
+      "direccion": "Calle 36 # 24 - 102, Of 504",
+      "telefono": 3123456789,
+      "correo": "jorge.bermudez@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 1022345678,
+      "nombres": "Andrés Mauricio",
+      "apellidos": "Vargas Peña",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 134 # 19-45, Apt 501",
+      "telefono": 3134567891,
+      "correo": "andres.vargas@email.com"
+    },
+    "peso": 3.5,
+    "tamano": "Pequeño (S)",
+    "contenido": "Grabador DVR móvil Dahua de 8 canales para seguridad vehicular con GPS y módulo 4G",
+    "precio": 58500,
+    "fragil": true,
+    "valor_declarado": 1650000,
+    "fecha": "2026-09-06T15:20:38.174Z",
+    "estado": "EN CAMINO",
+    "fecha_despacho": "2026-09-06T15:21:00.021Z"
+  },
+  {
+    "generator_guia": "ENV-89197",
+    "remitente": {
+      "dni_nit": 901222111,
+      "nombres": "TecnoAccesorios",
+      "apellidos": "Colombia",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Carrera 53 # 82-102",
+      "telefono": 3017778899,
+      "correo": "ventas@tecnoaccesorios.co"
+    },
+    "destinatario": {
+      "dni_nit": 80987654,
+      "nombres": "María Camila",
+      "apellidos": "Torres Medina",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Carrera 15 # 93A - 40, Of 201",
+      "telefono": 3210987654,
+      "correo": "camila.torres@email.com"
+    },
+    "peso": 45,
+    "tamano": "Grande (L)",
+    "contenido": "Bobina de cable de fibra óptica monomodo ADSS de 12 hilos para telecomunicaciones",
+    "precio": 281000,
+    "fragil": false,
+    "valor_declarado": 2800000,
+    "fecha": "2026-09-06T15:26:40.779Z",
+    "estado": "EN CAMINO",
+    "fecha_despacho": "2026-09-06T15:27:00.017Z"
+  },
+  {
+    "generator_guia": "ENV-15827",
+    "remitente": {
+      "dni_nit": 1110456123,
+      "nombres": "Jhon Jairo",
+      "apellidos": "Palacios Mosquera",
+      "departamento": "Chocó",
+      "ciudad": "Quibdó",
+      "direccion": "Carrera 4 # 25-18",
+      "telefono": 3189990011,
+      "correo": "jhon.palacios@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 59825667,
+      "nombres": "Sonia Patricia",
+      "apellidos": "Vargas Ruiz",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Calle 72 # 53 - 12, Piso 4",
+      "telefono": 3109876543,
+      "correo": "sonia.vargas@email.com"
+    },
+    "peso": 8.33,
+    "tamano": "Mediano (M)",
+    "contenido": "Lote de videovigilancia: 12 cámaras IP tipo domo Hikvision de 4MP con visión nocturna ColorVu",
+    "precio": 133666.6666666667,
+    "fragil": true,
+    "valor_declarado": 4200000,
+    "fecha": "2026-09-06T15:30:09.427Z",
+    "estado": "EN CAMINO",
+    "fecha_despacho": "2026-09-06T15:31:00.015Z"
+  },
+  {
+    "generator_guia": "ENV-98938",
+    "remitente": {
+      "dni_nit": 1045678901,
+      "nombres": "Natalia Andrea",
+      "apellidos": "Guzmán Vélez",
+      "departamento": "Quindío",
+      "ciudad": "Armenia",
+      "direccion": "Avenida Centenario # 25N-40",
+      "telefono": 3142223344,
+      "correo": "natalia.guzman@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 71234567,
+      "nombres": "Jorge Eliécer",
+      "apellidos": "Bermúdez Díaz",
+      "departamento": "Bolívar",
+      "ciudad": "Cartagena de Indias",
+      "direccion": "Barrio Bocagrande, Carrera 3 # 5-80",
+      "telefono": 3015559988,
+      "correo": "jorge.bermudez@email.com"
+    },
+    "peso": 6.5,
+    "tamano": "Mediano (M)",
+    "contenido": "Switch administrable perimetral Cisco Catalyst de 48 puertos PoE+ para red corporativa",
+    "precio": 198500,
+    "fragil": true,
+    "valor_declarado": 7900000,
+    "fecha": "2026-09-06T16:21:08.479Z",
+    "estado": "EN CAMINO",
+    "fecha_despacho": "2026-09-06T16:22:00.028Z"
+  },
+  {
+    "generator_guia": "ENV-85955",
+    "remitente": {
+      "dni_nit": 3551101984,
+      "nombres": "Claudia Elena",
+      "apellidos": "Gutiérrez Ángel",
+      "departamento": "Caldas",
+      "ciudad": "Manizales",
+      "direccion": "Avenida Santander # 55 - 22",
+      "telefono": 3148765432,
+      "correo": "claudia.gutierrez@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 901333444,
+      "nombres": "Muebles & Diseño",
+      "apellidos": "Hogar",
+      "departamento": "Antioquia",
+      "ciudad": "Sabaneta",
+      "direccion": "Carrera 48 # 75 Sur-30",
+      "telefono": 3004445566,
+      "correo": "despachos@mueblesdiseno.com"
+    },
+    "peso": 7.8,
+    "tamano": "Mediano (M)",
+    "contenido": "Cámara PTZ industrial de seguridad Axis con zoom óptico de 40x y analíticas de IA",
+    "estado": "EN CAMINO",
+    "precio": 277000,
+    "fragil": true,
+    "valor_declarado": 11500000,
+    "fecha": "2026-09-06T16:31:39.993Z",
+    "fecha_despacho": "2026-09-06T16:32:00.009Z"
+  },
+  {
+    "generator_guia": "ENV-50100",
+    "remitente": {
+      "dni_nit": 59825667,
+      "nombres": "Sonia Patricia",
+      "apellidos": "Vargas Ruiz",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Calle 72 # 53 - 12, Piso 4",
+      "telefono": 3109876543,
+      "correo": "sonia.vargas@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 3551101984,
+      "nombres": "Claudia Elena",
+      "apellidos": "Gutiérrez Ángel",
+      "departamento": "Caldas",
+      "ciudad": "Manizales",
+      "direccion": "Avenida Santander # 55 - 22",
+      "telefono": 3148765432,
+      "correo": "claudia.gutierrez@email.com"
+    },
+    "peso": 5.4,
+    "tamano": "Mediano (M)",
+    "contenido": "Kit de radioenlace inalámbrico Ubiquiti AirFiber 5XHD para telecomunicaciones de larga distancia",
+    "estado": "EN CAMINO",
+    "precio": 103000,
+    "fragil": true,
+    "valor_declarado": 3400000,
+    "fecha": "2026-09-06T19:28:38.117Z",
+    "fecha_despacho": "2026-09-06T19:29:00.009Z"
+  },
+  {
+    "generator_guia": "ENV-42787",
+    "remitente": {
+      "dni_nit": 80987654,
+      "nombres": "María Camila",
+      "apellidos": "Torres Medina",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Carrera 15 # 93A - 40, Of 201",
+      "telefono": 3210987654,
+      "correo": "camila.torres@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 1110456123,
+      "nombres": "Jhon Jairo",
+      "apellidos": "Palacios Mosquera",
+      "departamento": "Chocó",
+      "ciudad": "Quibdó",
+      "direccion": "Carrera 4 # 25-18",
+      "telefono": 3189990011,
+      "correo": "jhon.palacios@email.com"
+    },
+    "peso": 18.5,
+    "tamano": "Grande (L)",
+    "contenido": "Servidor Network Video Recorder (NVR) de 64 canales con 48TB de almacenamiento empresarial",
+    "estado": "EN CAMINO",
+    "precio": 418500,
+    "fragil": true,
+    "valor_declarado": 15900000,
+    "fecha": "2026-09-06T19:35:59.365Z",
+    "fecha_despacho": "2026-09-06T19:36:00.014Z"
+  },
+  {
+    "generator_guia": "ENV-63874",
+    "remitente": {
+      "dni_nit": 71234567,
+      "nombres": "Jorge Eliécer",
+      "apellidos": "Bermúdez Díaz",
+      "departamento": "Bolívar",
+      "ciudad": "Cartagena de Indias",
+      "direccion": "Barrio Bocagrande, Carrera 3 # 5-80",
+      "telefono": 3015559988,
+      "correo": "jorge.bermudez@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 9580367634,
+      "nombres": "Thiago Benjamín",
+      "apellidos": "Castro Meléndez",
+      "departamento": "Santander",
+      "ciudad": "Bucaramanga",
+      "direccion": "Calle 36 # 24 - 102, Of 504",
+      "telefono": 3123456789,
+      "correo": "thiago.castro@email.com"
+    },
+    "peso": 4.8,
+    "tamano": "Pequeño (S)",
+    "contenido": "Fusionadora de fibra óptica profesional de alineación por núcleo con kit de herramientas de corte",
+    "estado": "EN CAMINO",
+    "precio": 162000,
+    "fragil": true,
+    "valor_declarado": 6500000,
+    "fecha": "2026-09-06T19:48:06.556Z",
+    "fecha_despacho": "2026-09-06T19:49:00.035Z"
+  },
+  {
+    "generator_guia": "ENV-53543",
+    "remitente": {
+      "dni_nit": 901333444,
+      "nombres": "Muebles & Diseño",
+      "apellidos": "Hogar",
+      "departamento": "Antioquia",
+      "ciudad": "Sabaneta",
+      "direccion": "Carrera 48 # 75 Sur-30",
+      "telefono": 3004445566,
+      "correo": "despachos@mueblesdiseno.com"
+    },
+    "destinatario": {
+      "dni_nit": 1045678901,
+      "nombres": "Natalia Andrea",
+      "apellidos": "Guzmán Vélez",
+      "departamento": "Quindío",
+      "ciudad": "Armenia",
+      "direccion": "Avenida Centenario # 25N-40",
+      "telefono": 3142223344,
+      "correo": "natalia.guzman@email.com"
+    },
+    "peso": 5.2,
+    "tamano": "Mediano (M)",
+    "contenido": "Enrutador de núcleo de red (Core Router) MikroTik de alta capacidad con 12 puertos SFP+ de 10Gbps",
+    "estado": "EN CAMINO",
+    "precio": 130000,
+    "fragil": true,
+    "valor_declarado": 4800000,
+    "fecha": "2026-09-06T19:50:35.445Z",
+    "fecha_despacho": "2026-09-06T19:51:00.012Z"
+  },
+  {
+    "generator_guia": "ENV-60072",
+    "remitente": {
+      "dni_nit": 1022345678,
+      "nombres": "Andrés Mauricio",
+      "apellidos": "Vargas Peña",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 134 # 19-45, Apt 501",
+      "telefono": 3134567891,
+      "correo": "andres.vargas@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 901222111,
+      "nombres": "TecnoAccesorios",
+      "apellidos": "Colombia",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Carrera 53 # 82-102",
+      "telefono": 3017778899,
+      "correo": "ventas@tecnoaccesorios.co"
+    },
+    "peso": 12,
+    "tamano": "Mediano (M)",
+    "contenido": "Sistema de videovigilancia térmica fija térmica FLIR para detección perimetral de intrusos de largo alcance",
+    "estado": "EN CAMINO",
+    "precio": 558000,
+    "fragil": true,
+    "valor_declarado": 24500000,
+    "fecha": "2026-09-06T19:58:03.506Z",
+    "fecha_despacho": "2026-09-06T20:00:00.038Z"
+  },
+  {
+    "generator_guia": "ENV-75648",
+    "remitente": {
+      "dni_nit": 1010102200,
+      "nombres": "Juan",
+      "apellidos": "Express",
+      "departamento": "Valle del Cauca",
+      "ciudad": "Cali",
+      "direccion": "Calle 30 N # 2AN - 29",
+      "telefono": 3003043388,
+      "correo": "juan.express@mail.com"
+    },
+    "destinatario": {
+      "dni_nit": 9002581471,
+      "nombres": "Global Cargo",
+      "apellidos": "S.A.S. LTDA",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 17 # 96A - 25",
+      "telefono": 6014551020,
+      "correo": "servicios@globalcargo.co"
+    },
+    "peso": 4.39,
+    "tamano": "Pequeño (S)",
+    "contenido": "Consola de videojuegos Sony PlayStation 5 Slim de 1TB con dos controles inalámbricos DualSense",
+    "estado": "EN CAMINO",
+    "precio": 81930,
+    "fragil": true,
+    "valor_declarado": 2600000,
+    "fecha": "2026-09-06T20:48:02.767Z",
+    "fecha_despacho": "2026-09-06T21:00:00.020Z"
+  },
+  {
+    "generator_guia": "ENV-17874",
+    "remitente": {
+      "dni_nit": 32234567,
+      "nombres": "Claudia Patricia",
+      "apellidos": "Restrepo Ruiz",
+      "departamento": "Risaralda",
+      "ciudad": "Pereira",
+      "direccion": "Avenida Circunvalar # 12-85",
+      "telefono": 3102223344,
+      "correo": "claudia.restrepo@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 80987654,
+      "nombres": "María Camila",
+      "apellidos": "Torres Medina",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Carrera 15 # 93A - 40, Of 201",
+      "telefono": 3210987654,
+      "correo": "camila.torres@email.com"
+    },
+    "peso": 5.8,
+    "tamano": "Mediano (M)",
+    "contenido": "Lote de almacenamiento: 20 discos duros externos Western Digital Elements de 2TB USB 3.0",
+    "estado": "EN CAMINO",
+    "precio": 185000,
+    "fragil": true,
+    "valor_declarado": 7400000,
+    "fecha": "2026-09-06T20:50:50.380Z",
+    "fecha_despacho": "2026-09-06T21:00:00.020Z"
+  },
+  {
+    "generator_guia": "ENV-60369",
+    "remitente": {
+      "dni_nit": 9002581471,
+      "nombres": "Global Cargo",
+      "apellidos": "S.A.S. LTDA",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 17 # 96A - 25",
+      "telefono": 6014551020,
+      "correo": "servicios@globalcargo.co"
+    },
+    "destinatario": {
+      "dni_nit": 59825667,
+      "nombres": "Sonia Patricia",
+      "apellidos": "Vargas Ruiz",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Calle 72 # 53 - 12, Piso 4",
+      "telefono": 3109876543,
+      "correo": "sonia.vargas@email.com"
+    },
+    "peso": 2.1,
+    "tamano": "Pequeño (S)",
+    "contenido": "Computador portátil Apple MacBook Pro de 14 pulgadas con procesador M3 Pro y 18GB de RAM",
+    "estado": "EN CAMINO",
+    "precio": 248500,
+    "fragil": true,
+    "valor_declarado": 11500000,
+    "fecha": "2026-09-06T20:53:34.280Z",
+    "fecha_despacho": "2026-09-06T21:00:00.020Z"
+  },
+  {
+    "generator_guia": "ENV-16654",
+    "remitente": {
+      "dni_nit": 52345678,
+      "nombres": "María Camila",
+      "apellidos": "Pérez Hoyos",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Carrera 15 # 85-42, Oficina 301",
+      "telefono": 3157891234,
+      "correo": "camila.perez@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 71234567,
+      "nombres": "Jorge Eliécer",
+      "apellidos": "Bermúdez Díaz",
+      "departamento": "Bolívar",
+      "ciudad": "Cartagena de Indias",
+      "direccion": "Barrio Bocagrande, Carrera 3 # 5-80",
+      "telefono": 3015559988,
+      "correo": "jorge.bermudez@email.com"
+    },
+    "peso": 14.87,
+    "tamano": "Mediano (M)",
+    "contenido": "Monitor gamer curvo ASUS ROG Swift de 32 pulgadas OLED QHD con tasa de refresco de 240Hz",
+    "estado": "EN CAMINO",
+    "precio": 186360,
+    "fragil": true,
+    "valor_declarado": 5200000,
+    "fecha": "2026-09-06T20:56:46.894Z",
+    "fecha_despacho": "2026-09-06T21:00:00.020Z"
+  },
+  {
+    "generator_guia": "ENV-12513",
+    "remitente": {
+      "dni_nit": 3551101984,
+      "nombres": "Claudia Elena",
+      "apellidos": "Gutiérrez Ángel",
+      "departamento": "Caldas",
+      "ciudad": "Manizales",
+      "direccion": "Avenida Santander # 55 - 22",
+      "telefono": 3148765432,
+      "correo": "claudia.gutierrez@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 1022345678,
+      "nombres": "Andrés Mauricio",
+      "apellidos": "Vargas Peña",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 134 # 19-45, Apt 501",
+      "telefono": 3134567891,
+      "correo": "andres.vargas@email.com"
+    },
+    "peso": 3.1,
+    "tamano": "Pequeño (S)",
+    "contenido": "Tarjeta gráfica para PC de escritorio NVIDIA GeForce RTX 4090 de 24GB GDDR6X",
+    "estado": "EN CAMINO",
+    "precio": 219500,
+    "fragil": true,
+    "valor_declarado": 9800000,
+    "fecha": "2026-09-06T20:58:50.524Z",
+    "fecha_despacho": "2026-09-06T21:00:00.020Z"
+  },
+  {
+    "generator_guia": "ENV-70849",
+    "remitente": {
+      "dni_nit": 59825667,
+      "nombres": "Sonia Patricia",
+      "apellidos": "Vargas Ruiz",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Calle 72 # 53 - 12, Piso 4",
+      "telefono": 3109876543,
+      "correo": "sonia.vargas@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 3551101984,
+      "nombres": "Claudia Elena",
+      "apellidos": "Gutiérrez Ángel",
+      "departamento": "Caldas",
+      "ciudad": "Manizales",
+      "direccion": "Avenida Santander # 55 - 22",
+      "telefono": 3148765432,
+      "correo": "claudia.gutierrez@email.com"
+    },
+    "peso": 1.8,
+    "tamano": "Pequeño (S)",
+    "contenido": "Gafas de realidad virtual independiente Meta Quest 3 de 512GB con controles Touch Plus",
+    "estado": "EN CAMINO",
+    "precio": 87000,
+    "fragil": true,
+    "valor_declarado": 3500000,
+    "fecha": "2026-09-06T21:01:48.372Z",
+    "fecha_despacho": "2026-09-13T17:30:00.047Z"
+  },
+  {
+    "generator_guia": "ENV-67487",
+    "remitente": {
+      "dni_nit": 80987654,
+      "nombres": "María Camila",
+      "apellidos": "Torres Medina",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Carrera 15 # 93A - 40, Of 201",
+      "telefono": 3210987654,
+      "correo": "camila.torres@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 1110456123,
+      "nombres": "Jhon Jairo",
+      "apellidos": "Palacios Mosquera",
+      "departamento": "Chocó",
+      "ciudad": "Quibdó",
+      "direccion": "Carrera 4 # 25-18",
+      "telefono": 3189990011,
+      "correo": "jhon.palacios@email.com"
+    },
+    "peso": 2.3,
+    "tamano": "Pequeño (S)",
+    "contenido": "Lote de telefonía: 5 unidades de celulares Apple iPhone 15 Pro Max de 256GB color Titanio Natural",
+    "estado": "EN CAMINO",
+    "precio": 589500,
+    "fragil": true,
+    "valor_declarado": 28500000,
+    "fecha": "2026-09-06T21:03:32.349Z",
+    "fecha_despacho": "2026-09-13T17:30:00.047Z"
+  },
+  {
+    "generator_guia": "ENV-89282",
+    "remitente": {
+      "dni_nit": 1045678901,
+      "nombres": "Natalia Andrea",
+      "apellidos": "Guzmán Vélez",
+      "departamento": "Quindío",
+      "ciudad": "Armenia",
+      "direccion": "Avenida Centenario # 25N-40",
+      "telefono": 3142223344,
+      "correo": "natalia.guzman@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 901333444,
+      "nombres": "Muebles & Diseño",
+      "apellidos": "Hogar",
+      "departamento": "Antioquia",
+      "ciudad": "Sabaneta",
+      "direccion": "Carrera 48 # 75 Sur-30",
+      "telefono": 3004445566,
+      "correo": "despachos@mueblesdiseno.com"
+    },
+    "peso": 0.95,
+    "tamano": "Pequeño (S)",
+    "contenido": "Audífonos inalámbricos de diadema Sony WH-1000XM5 con cancelación de ruido activa",
+    "estado": "EN CAMINO",
+    "precio": 41766.666666666664,
+    "fragil": true,
+    "valor_declarado": 1450000,
+    "fecha": "2026-09-06T21:05:20.008Z",
+    "fecha_despacho": "2026-09-13T17:30:00.047Z"
+  },
+  {
+    "generator_guia": "ENV-64938",
+    "remitente": {
+      "dni_nit": 1022345678,
+      "nombres": "Andrés Mauricio",
+      "apellidos": "Vargas Peña",
+      "departamento": "Cundinamarca",
+      "ciudad": "Bogotá D.C",
+      "direccion": "Calle 134 # 19-45, Apt 501",
+      "telefono": 3134567891,
+      "correo": "andres.vargas@email.com"
+    },
+    "destinatario": {
+      "dni_nit": 901222111,
+      "nombres": "TecnoAccesorios",
+      "apellidos": "Colombia",
+      "departamento": "Atlántico",
+      "ciudad": "Barranquilla",
+      "direccion": "Carrera 53 # 82-102",
+      "telefono": 3017778899,
+      "correo": "ventas@tecnoaccesorios.co"
+    },
+    "peso": 3.9,
+    "tamano": "Pequeño (S)",
+    "contenido": "Estabilizador para cámaras réflex y mirrorless DJI Ronin RS 4 Pro Combo con sistema de enfoque",
+    "estado": "PENDIENTE",
+    "precio": 28500,
+    "fragil": true,
+    "valor_declarado": 50000,
+    "fecha": "2026-09-13T20:07:39.735Z"
+  }
+]

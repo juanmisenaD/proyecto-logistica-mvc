@@ -1,0 +1,23 @@
+
+============================================================
+                TICKET DE ENVÍO - DETALLE TOTAL
+============================================================
+GUÍA No: ENV-98746 | FECHA: 2026-08-26T03:36:58.077Z
+TAMAÑO: Grande (L) | PESO: 19 kg
+FRÁGIL: SÍ | VALOR DECLARADO: $50.000
+------------------------------------------------------------
+REMITENTE:
+Nombre:      Global Cargo S.A.S. LTDA
+DNI/NIT:     9002581471
+Ubicación:   Calle 17 # 96A - 25, Bogotá D.C (Cundinamarca)
+Contacto:    6014551020 | servicios@globalcargo.co
+------------------------------------------------------------
+DESTINATARIO:
+Nombre:      Juan Express
+DNI/NIT:     1010102200
+Ubicación:   Calle 30N#2AN-29, Cali (Valle del Cauca)
+Contacto:    3003043388 | juan.express@mail.com
+------------------------------------------------------------
+MERCANCÍA:   tecnologia incluye computadores e accesorios
+TOTAL PAGADO: $104.000
+============================================================

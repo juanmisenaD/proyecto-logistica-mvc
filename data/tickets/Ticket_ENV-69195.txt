@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-69195 | FECHA: 2026-08-31T02:38:54.385Z
+      TAMAÑO: Pequeño (S) | PESO: 3.5 kg
+      FRÁGIL: NO | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Juan Camilo Pérez Cardona
+      DNI/NIT:     1076543210
+      Ubicación:   Norte Calle 19 # 12 - 45, Armenia (Quindío)
+      Contacto:    3176543210 | juan.perez@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Liliana María Saldarriaga Hoyos
+      DNI/NIT:     8775931038
+      Ubicación:   Carrera 5 # 11 - 34, Neiva (Huila)
+      Contacto:    3209876543 | liliana.saldarriaga@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Juego de sábanas familiares
+      TOTAL PAGADO: $18.500
+      ============================================================
+    

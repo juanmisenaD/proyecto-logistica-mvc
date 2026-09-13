@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-29179 | FECHA: 2026-08-30T21:36:37.846Z
+      TAMAÑO: Pequeño (S) | PESO: 0.8 kg
+      FRÁGIL: NO | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Diana Marcela Rojas Rodríguez
+      DNI/NIT:     32145678
+      Ubicación:   Carrera 27 # 36-14, Bucaramanga (Santander)
+      Contacto:    3183456789 | diana.rojas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Andrés Felipe Ortiz Silva
+      DNI/NIT:     79876543
+      Ubicación:   Calle 21 # 9-45, Pereira (Risaralda)
+      Contacto:    3206543210 | andres.ortiz@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Documentos notariales y escrituras
+      TOTAL PAGADO: $5.000
+      ============================================================
+    

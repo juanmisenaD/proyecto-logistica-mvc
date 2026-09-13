@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-42787 | FECHA: 2026-09-06T19:35:59.365Z
+      TAMAÑO: Grande (L) | PESO: 18.5 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $15.900.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      María Camila Torres Medina
+      DNI/NIT:     80987654
+      Ubicación:   Carrera 15 # 93A - 40, Of 201, Bogotá D.C (Cundinamarca)
+      Contacto:    3210987654 | camila.torres@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      Jhon Jairo Palacios Mosquera
+      DNI/NIT:     1110456123
+      Ubicación:   Carrera 4 # 25-18, Quibdó (Chocó)
+      Contacto:    3189990011 | jhon.palacios@email.com
+      ------------------------------------------------------------
+      MERCANCÍA:   Servidor Network Video Recorder (NVR) de 64 canales con 48TB de almacenamiento empresarial
+      TOTAL PAGADO: $418.500
+      ============================================================
+    

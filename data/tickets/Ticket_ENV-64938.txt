@@ -1,0 +1,24 @@
+
+      ============================================================
+                      TICKET DE ENVÍO - DETALLE TOTAL
+      ============================================================
+      GUÍA No: ENV-64938 | FECHA: 2026-09-13T20:07:39.735Z
+      TAMAÑO: Pequeño (S) | PESO: 3.9 kg
+      FRÁGIL: SÍ | VALOR DECLARADO: $50.000
+      ------------------------------------------------------------
+      REMITENTE:
+      Nombre:      Andrés Mauricio Vargas Peña
+      DNI/NIT:     1022345678
+      Ubicación:   Calle 134 # 19-45, Apt 501, Bogotá D.C (Cundinamarca)
+      Contacto:    3134567891 | andres.vargas@email.com
+      ------------------------------------------------------------
+      DESTINATARIO:
+      Nombre:      TecnoAccesorios Colombia
+      DNI/NIT:     901222111
+      Ubicación:   Carrera 53 # 82-102, Barranquilla (Atlántico)
+      Contacto:    3017778899 | ventas@tecnoaccesorios.co
+      ------------------------------------------------------------
+      MERCANCÍA:   Estabilizador para cámaras réflex y mirrorless DJI Ronin RS 4 Pro Combo con sistema de enfoque
+      TOTAL PAGADO: $28.500
+      ============================================================
+    
