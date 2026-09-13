@@ -1,3 +1,45 @@
+// Función auxiliar para obtener un índice aleatorio
+function toRandomIndex(max) {
+  return Math.floor(Math.random() * max);
+}
+
+// Función que retorna únicamente la INFORMACIÓN de los dos clientes aleatorios
+async function obtenerClientesAleatorios() {
+  try {
+    const response = await fetch('/api/clientes');
+    const resultado = await response.json();
+
+    // Validar que la respuesta sea exitosa y contenga los datos en 'message'
+    if (!resultado.success || !Array.isArray(resultado.message) || resultado.message.length < 2) {
+      console.warn("La API no devolvió suficientes clientes para seleccionar dos diferentes.");
+      return null;
+    }
+
+    const clientes = resultado.message;
+
+    // 1. Seleccionar Remitente
+    const indexRemitente = toRandomIndex(clientes.length);
+    const remitente = clientes[indexRemitente];
+
+    // 2. Filtrar para excluir al remitente por su identificador único (DNI/NIT)
+    const posiblesDestinatarios = clientes.filter(c => c.dni_nit !== remitente.dni_nit);
+
+    // 3. Seleccionar Destinatario de la lista filtrada
+    const indexDestinatario = toRandomIndex(posiblesDestinatarios.length);
+    const destinatario = posiblesDestinatarios[indexDestinatario];
+
+    // Retornar la información pura de ambos clientes
+    return {
+      remitente,
+      destinatario
+    };
+
+  } catch (error) {
+    console.error("Error al consultar /api/clientes:", error);
+    return null;
+  }
+}
+
 async function cargarDepartamentos(prefix) {
   const res = await fetch('/api/departamentos');
   const deptos = await res.json();
@@ -20,6 +62,7 @@ async function cargarCiudades(prefix, ciudadSeleccionada = null) {
   });
 }
 
+/*
 async function toRandomIndex() {
   const response = await fetch('/api/clientes');
   const data = await response.json();
@@ -35,6 +78,7 @@ async function toRandomIndex() {
     // console.error(data.message);
   }
 }
+*/
 
 async function autocompletar(prefix) {
   const dni = document.getElementById(`${prefix}_dni_nit`).value;
@@ -95,6 +139,12 @@ document.addEventListener('DOMContentLoaded', () => {
   cargarDepartamentos('r');
   cargarDepartamentos('d');
   toRandomIndex();
+  obtenerClientesAleatorios().then(datos => {
+    if (datos) {
+      console.table(datos.remitente);
+      console.table(datos.destinatario);
+    }
+  })
   // 1. Identificar el formulario de creación
   const formularioGuia = document.querySelector('form');
   const alertaMismaCiudad = document.getElementById('alertaMismaCiudad');
