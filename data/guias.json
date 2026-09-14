@@ -1524,10 +1524,11 @@
     "peso": 3.9,
     "tamano": "Pequeño (S)",
     "contenido": "Estabilizador para cámaras réflex y mirrorless DJI Ronin RS 4 Pro Combo con sistema de enfoque",
-    "estado": "PENDIENTE",
+    "estado": "EN CAMINO",
     "precio": 28500,
     "fragil": true,
     "valor_declarado": 50000,
-    "fecha": "2026-09-13T20:07:39.735Z"
+    "fecha": "2026-09-13T20:07:39.735Z",
+    "fecha_despacho": "2026-09-14T02:00:00.008Z"
   }
 ]

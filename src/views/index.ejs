@@ -157,7 +157,7 @@
             <% guias.forEach(g => { %>
               <tr class="fila-guia" data-estado="<%= g.estado %>">
                 <td><span class="badge bg-secondary"><%= g.generator_guia %></span></td>
-                <td><%= new Date(g.fecha).toLocaleDateString() %></td>
+                <td><%= new Date(g.fecha).toLocaleString("es-CO") %></td>
                 <td>
                   <strong>
                     <%= g.remitente?.nombres ? `${g.remitente.nombres} ${g.remitente.apellidos}` : (g.resumen || 'Cliente Archivated') %>
