@@ -202,7 +202,7 @@ class GuiaController {
       precio: precioTotal,
       fragil,
       valor_declarado: valorDeclarado,
-      fecha: new Date().toISOString()
+      fecha: new Date(Date.now() - new Date().getTimezoneOffset() * 60000).toISOString()
     };
 
     GuiaModel.saveGuia(nuevaGuia);
